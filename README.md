@@ -1,13 +1,13 @@
-**Face Hallucination Benchmark**
+# Face Hallucination Benchmark
 
 List of face hallucination (super-resolution) resources.
 
 Some classical algorithms (including NE, LSR, SR, LcR, LINE, and EigTran) that I
 implanted can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 
-**State-of-the-art algorithms**
+##State-of-the-art algorithms
 
-**Classical Patch-based Methods**
+####Classical Patch-based Methods
 
 -   Hallucinating face, FG2000, S. Baker and T. Kanade.
     [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=840616)]
@@ -36,7 +36,7 @@ implanted can be found [here](https://github.com/junjun-jiang/TLcR-RL).
     Space, TIP2018, Jingang Shi et al.
     [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8310603)]
 
-**Classical Global Face Methods**
+####Classical Global Face Methods
 
 -   [EigTran] Hallucinating face by eigentransformation, TSMC-C2005, Xiaogang
     Wang et al. [[Web](https://github.com/junjun-jiang/TLcR-RL)]
@@ -54,7 +54,7 @@ implanted can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 -   Structured face hallucination, CVPR2013, Y. Yang et al.
     [[Web](https://eng.ucmerced.edu/people/cyang35/CVPR13/CVPR13.html)]
 
-**Classical Two-Step Methods**
+####Classical Two-Step Methods
 
 -   A two-step approach to hallucinating faces: global parametric model and
     local nonparametric model, CVPR2001, Ce Liu et al.
@@ -68,7 +68,7 @@ implanted can be found [here](https://github.com/junjun-jiang/TLcR-RL).
     analysis, PR2010, Hua Huang et al.
     [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320310000853)]
 
-**Deep Learning Method**
+####Deep Learning Method
 
 -   [CBN] Deep cascaded bi-network for face hallucination, ECCV2016, S. Zhu et
     al. [[Web](https://github.com/Liusifei/ECCV16-CBN)]
@@ -114,7 +114,7 @@ implanted can be found [here](https://github.com/junjun-jiang/TLcR-RL).
     degradation first, ECCV2018, Adrian Bulat et al.
     [[PDF](https://arxiv.org/abs/1807.11458)][[Web](https://www.adrianbulat.com/)]
 
-**Discriminative face hallucination**
+####Discriminative face hallucination
 
 -   SiGAN: Siamese Generative Adversarial Network for Identity-Preserving Face
     Hallucination, arXiv2018, Hsu et al.
@@ -126,7 +126,7 @@ implanted can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 -   Super-Identity Convolutional Neural Network for Face Hallucination,
     ECCV2018, Kaipeng Zhang et al. [[Web]](http://kpzhang93.github.io/)
 
-**Image Quality Measurement**
+####Image Quality Measurement
 
 -   RMSE, PSNR, SSIM
 
@@ -134,9 +134,9 @@ implanted can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 
 -   Mean Opinion Score (MOS)
 
-**Databases**
+####Databases
 
---   Classical databases
+   Classical databases
 
 -   [FERET](http://www.nist.gov/itl/iad/ig/colorferet.cfm)
 
@@ -146,7 +146,7 @@ implanted can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 
 -   [FEI](https://fei.edu.br/~cet/facedatabase.html)
 
--   Largescale databases
+   Largescale databases
 
 -   [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
