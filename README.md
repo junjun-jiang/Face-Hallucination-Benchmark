@@ -1,5 +1,5 @@
 # Face Hallucination Benchmark
-
+# Face Hallucination Benchmark
 List of face hallucination (super-resolution) resources.
 
 Some classical algorithms (including NE, LSR, SR, LcR, LINE, and EigTran) that I
