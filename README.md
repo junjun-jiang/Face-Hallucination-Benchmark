@@ -1,9 +1,8 @@
 # Face Hallucination Benchmark
-# Face Hallucination Benchmark
-List of face hallucination (super-resolution) resources.
+A list of face hallucination (super-resolution) resources collected by Junjun Jiang.
 
 Some classical algorithms (including NE, LSR, SR, LcR, LINE, and EigTran) that I
-implanted can be found [here](https://github.com/junjun-jiang/TLcR-RL).
+implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 
 ## State-of-the-art algorithms
 
