@@ -4,7 +4,7 @@ A list of face hallucination (super-resolution) resources collected by Junjun Ji
 Some classical algorithms (including NE, LSR, SR, LcR, LINE, and EigTran) that I
 implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 
-## State-of-the-art algorithms
+
 
 #### Classical Patch-based Methods
 
