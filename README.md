@@ -135,7 +135,7 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 
 #### Databases
 
-   Classical databases
+###### Classical databases
 
 -   [FERET](http://www.nist.gov/itl/iad/ig/colorferet.cfm)
 
@@ -145,7 +145,7 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 
 -   [FEI](https://fei.edu.br/~cet/facedatabase.html)
 
-   Largescale databases
+###### Largescale databases
 
 -   [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
