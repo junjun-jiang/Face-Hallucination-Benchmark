@@ -1,7 +1,7 @@
 # Face-Hallucination-Benchmark
 A list of face hallucination (super-resolution) resources collected by Junjun Jiang.
 
-Some classical algorithms (including NE, LSR, SR, LcR, LINE, and EigTran) that I
+Some classical algorithms (including NE, LSR, SR, LcR, LINE, TLcR-RL, and EigTran) that I
 implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 
 
@@ -34,6 +34,8 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 -   Hallucinating Face Image by Regularization Models in High-Resolution Feature
     Space, TIP2018, Jingang Shi et al.
     [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8310603)]
+    
+-   Context-Patch based Face Hallucination via Thresholding Locality-Constrained Representation and Reproducing Learning, TIP2018, Junjun Jiang et al.
 
 #### Classical Global Face Methods
 
@@ -86,6 +88,9 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
     transformative discriminative autoencoders, AAAI2017, Xin Yu et al.
     [[Web](https://github.com/XinYuANU)]
 
+-   Deep CNN Denoiser and Multi-layer Neighbor Component Embedding for Face Hallucination, IJCAI2018, Junjun Jiang et al.
+    [[Web](https://github.com/junjun-jiang/IJCAI-18)]
+    
 -   [FaceAttr] Super-resolving very low-resolution face images with
     supplementary attributes, CVPR2018, Xin Yu et al.
     [[Web](https://github.com/XinYuANU)]
