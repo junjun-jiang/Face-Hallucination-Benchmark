@@ -121,7 +121,7 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
     Yongyi Lu et al.
     [[PDF](https://arxiv.org/pdf/1705.09966.pdf)][[Web](http://www.cse.ust.hk/~yluaw/)]
 
-###### Blind recovery
+###### Blind face hallucination
 
 -   [GFSRNet] Learning Warped Guidance for Blind Face Restoration, ECCV2018,
     Xiaoming Li et al. [[PDF](https://arxiv.org/pdf/1804.04829)][[Web](https://github.com/csxmli2016/GFRNet)]
@@ -140,7 +140,7 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
     arXiv2018, K. Grm et al. [[PDF](https://arxiv.org/pdf/1805.10938)]
 
 -   Super-Identity Convolutional Neural Network for Face Hallucination,
-    ECCV2018, Kaipeng Zhang et al. [[PDF]][[Web]](http://kpzhang93.github.io/)
+    ECCV2018, Kaipeng Zhang et al. [PDF][[Web]](http://kpzhang93.github.io/)
 
 #### Image Quality Measurement
 
