@@ -140,7 +140,7 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 
 #### Databases
 
-##### Classical databases
+####### Classical databases
 
 -   [FERET](http://www.nist.gov/itl/iad/ig/colorferet.cfm)
 
