@@ -114,7 +114,7 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
     [[PDF](https://ivul.kaust.edu.sa/Documents/Publications/2018/Face%20Super%20resolution%20Guided%20by%20Facial%20Component%20Heatmaps.pdf)]
     [[Web](https://github.com/XinYuANU)]
 
-######## Blind face hallucination
+###### Blind face hallucination
 
 -   [GFSRNet] Learning Warped Guidance for Blind Face Restoration, ECCV2018,
     Xiaoming Li et al. [[Web](https://github.com/csxmli2016/GFRNet)]
@@ -123,7 +123,7 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
     degradation first, ECCV2018, Adrian Bulat et al.
     [[PDF](https://arxiv.org/abs/1807.11458)][[Web](https://www.adrianbulat.com/)]
 
-######## Discriminative face hallucination
+###### Discriminative face hallucination
 
 -   SiGAN: Siamese Generative Adversarial Network for Identity-Preserving Face
     Hallucination, arXiv2018, Hsu et al.
