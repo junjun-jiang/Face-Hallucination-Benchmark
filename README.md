@@ -71,59 +71,60 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 
 #### Deep Learning Method
 
--   [CBN] Deep cascaded bi-network for face hallucination, ECCV2016, S. Zhu et
-    al. [[Web](https://github.com/Liusifei/ECCV16-CBN)]
-
 -   [R-DGN] Ultra-resolving face images by discriminative generative networks,
     in ECCV2016, Xin Yu et al. [[Web](https://github.com/XinYuANU)]
 
--   [LCGE] Learning to hallucinate face images via component generation and
-    enhancement, IJCAI2017, Y. Song et al.
-    [[Web](http://www.cs.cityu.edu.hk/~yibisong/)]
 
 -   [TDAE] Hallucinating very low-resolution unaligned and noisy face images,
-    CVPR2017, Xin Yu et al. [[Web](https://github.com/XinYuANU)]
-    
--   Attention-Aware Face Hallucination via Deep Reinforcement Learning,
-    CVPR2017, Qingxing Cao et al. [[PDF](https://arxiv.org/abs/1708.03132)][[Web](https://github.com/ykshi/facehallucination)]
+    CVPR2017, Xin Yu et al. [[Web](https://github.com/XinYuANU)]    
 
 -   [TDN] Hallucinating very low-resolution unaligned and noisy face images by
     transformative discriminative autoencoders, AAAI2017, Xin Yu et al.
     [[Web](https://github.com/XinYuANU)]
 
--   Deep CNN Denoiser and Multi-layer Neighbor Component Embedding for Face Hallucination, IJCAI2018, Junjun Jiang et al.
-    [[Web](https://github.com/junjun-jiang/IJCAI-18)]
-    
 
+    
+###### Structure prior based method (componet, landmarks, salience, heatmaps, etc)
+
+-   [CBN] Deep cascaded bi-network for face hallucination, ECCV2016, S. Zhu et
+    al. [[PDF](https://arxiv.org/abs/1607.05046)][[Web](https://github.com/Liusifei/ECCV16-CBN)]
+    
+-   [LCGE] Learning to hallucinate face images via component generation and
+    enhancement, IJCAI2017, Y. Song et al.
+    [[PDF](https://arxiv.org/abs/1708.00223)][[Web](http://www.cs.cityu.edu.hk/~yibisong/)]
+    
+-   Attention-Aware Face Hallucination via Deep Reinforcement Learning,
+    CVPR2017, Qingxing Cao et al. [[PDF](https://arxiv.org/abs/1708.03132)][[Web](https://github.com/ykshi/facehallucination)]
+    
+-   Deep CNN Denoiser and Multi-layer Neighbor Component Embedding for Face Hallucination, IJCAI2018, Junjun Jiang et al.
+    [[PDF](https://arxiv.org/abs/1806.10726)][[Web](https://github.com/junjun-jiang/IJCAI-18)] 
 
 -   [FSRNet] FSRNet: End-to-End learning face super-resolution with facial
-    priors, CVPR, 2018 Yu Chen et al. [[Web](https://github.com/tyshiwo/FSRNet)]
+    priors, CVPR, 2018 Yu Chen et al. [[PDF](https://arxiv.org/abs/1711.10703)][[Web](https://github.com/tyshiwo/FSRNet)]
 
 -   Super-FAN: integrated facial landmark localization and super-resolution of
     real-world low resolution faces in arbitrary poses with GANs, CVPR2018,
-    Adrian Bulat et al. [[Web](https://github.com/1adrianb)]
-
-
+    Adrian Bulat et al. [[PDF](https://arxiv.org/abs/1712.02765)][[Web](https://github.com/1adrianb)]
 
 -   Face super-resolution guided by facial component heatmaps, ECCV2018, Xin Yu
     et al.
     [[PDF](https://ivul.kaust.edu.sa/Documents/Publications/2018/Face%20Super%20resolution%20Guided%20by%20Facial%20Component%20Heatmaps.pdf)]
     [[Web](https://github.com/XinYuANU)]
     
-###### Attribute-Guided face hallucination
+###### Attribute-Guided method
 
 -   [FaceAttr] Super-resolving very low-resolution face images with
     supplementary attributes, CVPR2018, Xin Yu et al.
-    [[Web](https://github.com/XinYuANU)]
+    [[PDF](https://basurafernando.github.io/papers/XinYuCVPR18.pdf)][[Web](https://github.com/XinYuANU)]
     
 -   Attribute-Guided Face Generation Using Conditional CycleGAN, ECCV2018,
     Yongyi Lu et al.
     [[PDF](https://arxiv.org/pdf/1705.09966.pdf)][[Web](http://www.cse.ust.hk/~yluaw/)]
 
-###### Blind face hallucination
+###### Blind recovery
 
 -   [GFSRNet] Learning Warped Guidance for Blind Face Restoration, ECCV2018,
-    Xiaoming Li et al. [[Web](https://github.com/csxmli2016/GFRNet)]
+    Xiaoming Li et al. [[PDF](https://arxiv.org/pdf/1804.04829)][[Web](https://github.com/csxmli2016/GFRNet)]
 
 -   To learn image super-resolution, use a GAN to learn how to do image
     degradation first, ECCV2018, Adrian Bulat et al.
@@ -139,7 +140,7 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
     arXiv2018, K. Grm et al. [[PDF](https://arxiv.org/pdf/1805.10938)]
 
 -   Super-Identity Convolutional Neural Network for Face Hallucination,
-    ECCV2018, Kaipeng Zhang et al. [[Web]](http://kpzhang93.github.io/)
+    ECCV2018, Kaipeng Zhang et al. [[PDF]][[Web]](http://kpzhang93.github.io/)
 
 #### Image Quality Measurement
 
