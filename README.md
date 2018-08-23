@@ -94,9 +94,7 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 -   Deep CNN Denoiser and Multi-layer Neighbor Component Embedding for Face Hallucination, IJCAI2018, Junjun Jiang et al.
     [[Web](https://github.com/junjun-jiang/IJCAI-18)]
     
--   [FaceAttr] Super-resolving very low-resolution face images with
-    supplementary attributes, CVPR2018, Xin Yu et al.
-    [[Web](https://github.com/XinYuANU)]
+
 
 -   [FSRNet] FSRNet: End-to-End learning face super-resolution with facial
     priors, CVPR, 2018 Yu Chen et al. [[Web](https://github.com/tyshiwo/FSRNet)]
@@ -105,14 +103,22 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
     real-world low resolution faces in arbitrary poses with GANs, CVPR2018,
     Adrian Bulat et al. [[Web](https://github.com/1adrianb)]
 
--   Attribute-Guided Face Generation Using Conditional CycleGAN, ECCV2018,
-    Yongyi Lu et al.
-    [[PDF](https://arxiv.org/pdf/1705.09966.pdf)][[Web](http://www.cse.ust.hk/~yluaw/)]
+
 
 -   Face super-resolution guided by facial component heatmaps, ECCV2018, Xin Yu
     et al.
     [[PDF](https://ivul.kaust.edu.sa/Documents/Publications/2018/Face%20Super%20resolution%20Guided%20by%20Facial%20Component%20Heatmaps.pdf)]
     [[Web](https://github.com/XinYuANU)]
+    
+###### Attribute-Guided face hallucination
+
+-   [FaceAttr] Super-resolving very low-resolution face images with
+    supplementary attributes, CVPR2018, Xin Yu et al.
+    [[Web](https://github.com/XinYuANU)]
+    
+-   Attribute-Guided Face Generation Using Conditional CycleGAN, ECCV2018,
+    Yongyi Lu et al.
+    [[PDF](https://arxiv.org/pdf/1705.09966.pdf)][[Web](http://www.cse.ust.hk/~yluaw/)]
 
 ###### Blind face hallucination
 
