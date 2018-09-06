@@ -111,6 +111,9 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
     [[PDF](https://ivul.kaust.edu.sa/Documents/Publications/2018/Face%20Super%20resolution%20Guided%20by%20Facial%20Component%20Heatmaps.pdf)]
     [[Web](https://github.com/XinYuANU)]
     
+-   A coarse-to-fine face hallucination method by exploiting facial prior knowledge, ICIP2018,
+    Adrian Bulat et al. [[PDF](https://github.com/lemoner20/ICIP2018/blob/master/Li.pdf)][[Web](https://github.com/lemoner20/ICIP2018)]
+    
 ###### Attribute-Guided method
 
 -   [FaceAttr] Super-resolving very low-resolution face images with
