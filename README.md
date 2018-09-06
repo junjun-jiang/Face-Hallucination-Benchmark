@@ -112,7 +112,7 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
     [[Web](https://github.com/XinYuANU)]
     
 -   A coarse-to-fine face hallucination method by exploiting facial prior knowledge, ICIP2018,
-    Adrian Bulat et al. [[PDF](https://github.com/lemoner20/ICIP2018/blob/master/Li.pdf)][[Web](https://github.com/lemoner20/ICIP2018)]
+    Mengyan Li et al. [[PDF](https://github.com/lemoner20/ICIP2018/blob/master/Li.pdf)][[Web](https://github.com/lemoner20/ICIP2018)]
     
 ###### Attribute-Guided method
 
