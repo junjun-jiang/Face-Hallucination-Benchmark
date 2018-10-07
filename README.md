@@ -35,7 +35,7 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
     Space, TIP2018, Jingang Shi et al.
     [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8310603)]
     
--   Context-Patch based Face Hallucination via Thresholding Locality-Constrained Representation and Reproducing Learning, TCYB2018, Junjun Jiang et al. [[Web](https://github.com/junjun-jiang/TLcR-RL)]
+-   [TLcR-RL] Context-Patch based Face Hallucination via Thresholding Locality-Constrained Representation and Reproducing Learning, TCYB2018, Junjun Jiang et al. [[Web](https://github.com/junjun-jiang/TLcR-RL)]
 
 #### Classical Global Face Methods
 
@@ -123,6 +123,10 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 -   Attribute-Guided Face Generation Using Conditional CycleGAN, ECCV2018,
     Yongyi Lu et al.
     [[PDF](https://arxiv.org/pdf/1705.09966.pdf)][[Web](http://www.cse.ust.hk/~yluaw/)]
+    
+-   Attribute Augmented Convolutional Neural Network for Face Hallucination, CVPRW2018,
+    Cheng-Han Lee et al.
+    [[PDF](http://openaccess.thecvf.com/content_cvpr_2018_workshops/supplemental/Lee_Attribute_Augmented_Convolutional_CVPR_2018_supplemental.pdf)][[Web](https://steven413d.github.io/)] 
 
 ###### Blind face hallucination
 
@@ -144,6 +148,9 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 
 -   Super-Identity Convolutional Neural Network for Face Hallucination,
     ECCV2018, Kaipeng Zhang et al. [PDF][[Web]](http://kpzhang93.github.io/)
+    
+-   Verification of Very Low-Resolution Faces Using An Identity-Preserving Deep Face Super-resolution Network,
+    TR2018-116, Esra Ataer-Cansizoglu et al. [[PDF]](http://www.merl.com/publications/docs/TR2018-116.pdf)
 
 #### Image Quality Measurement
 
