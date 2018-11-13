@@ -35,7 +35,7 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
     Space, TIP2018, Jingang Shi et al.
     [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8310603)]
     
--   [TLcR-RL] Context-Patch based Face Hallucination via Thresholding Locality-Constrained Representation and Reproducing Learning, TCYB2018, Junjun Jiang et al. [[Web](https://github.com/junjun-jiang/TLcR-RL)]
+-   [TLcR-RL] Context-Patch based Face Hallucination via Thresholding Locality-Constrained Representation and Reproducing Learning, TCYB2018, Junjun Jiang et al. [[PDF]](https://arxiv.org/abs/1809.00665)[[Web](https://github.com/junjun-jiang/TLcR-RL)]
 
 #### Classical Global Face Methods
 
