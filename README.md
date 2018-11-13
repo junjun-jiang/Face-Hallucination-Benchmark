@@ -147,7 +147,7 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
     arXiv2018, K. Grm et al. [[PDF](https://arxiv.org/pdf/1805.10938)]
 
 -   Super-Identity Convolutional Neural Network for Face Hallucination,
-    ECCV2018, Kaipeng Zhang et al. [PDF][[Web]](http://kpzhang93.github.io/)
+    ECCV2018, Kaipeng Zhang et al. [[PDF]](https://arxiv.org/pdf/1811.02328.pdf)[[Web]](http://kpzhang93.github.io/)
     
 -   Verification of Very Low-Resolution Faces Using An Identity-Preserving Deep Face Super-resolution Network,
     TR2018-116, Esra Ataer-Cansizoglu et al. [[PDF]](http://www.merl.com/publications/docs/TR2018-116.pdf)
