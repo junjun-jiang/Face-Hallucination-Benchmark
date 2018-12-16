@@ -135,7 +135,7 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 
 -   To learn image super-resolution, use a GAN to learn how to do image
     degradation first, ECCV2018, Adrian Bulat et al.
-    [[PDF](https://arxiv.org/abs/1807.11458)][[Web](https://www.adrianbulat.com/)]
+    [[PDF](https://arxiv.org/abs/1807.11458)][[Web](https://github.com/jingyang2017/Face-and-Image-super-resolution)]
 
 ###### Discriminative face hallucination
 
