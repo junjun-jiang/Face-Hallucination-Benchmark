@@ -174,8 +174,7 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 
 -   [CMU+MIT](https://github.com/junjun-jiang/Face-Hallucination-Benchmark)*
 
--   [WHU-SCF](https://github.com/junjun-jiang/Face-Hallucination-Benchmark)*
-* These two databases are collected by myself.
+-   [WHU-SCF](https://github.com/junjun-jiang/Face-Hallucination-Benchmark)* The last two databases are collected by myself.
 
 
 ###### Largescale databases
