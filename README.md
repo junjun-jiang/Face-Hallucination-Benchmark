@@ -172,6 +172,12 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 
 -   [FEI](https://fei.edu.br/~cet/facedatabase.html)
 
+-   [CMU+MIT](https://github.com/junjun-jiang/Face-Hallucination-Benchmark)*
+
+-   [WHU-SCF](https://github.com/junjun-jiang/Face-Hallucination-Benchmark)*
+* These two databases are collected by myself.
+
+
 ###### Largescale databases
 
 -   [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
