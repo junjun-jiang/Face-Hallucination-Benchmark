@@ -37,6 +37,10 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
     
 -   [TLcR-RL] Context-Patch based Face Hallucination via Thresholding Locality-Constrained Representation and Reproducing Learning, TCYB2018, Junjun Jiang et al. [[PDF]](https://arxiv.org/abs/1809.00665)[[Web](https://github.com/junjun-jiang/TLcR-RL)]
 
+-   Face Hallucination via Coarse-to-Fine Recursive Kernel Regression Structure, Jingang Shi et al. TMM 2109.
+
+
+
 #### Classical Global Face Methods
 
 -   [EigTran] Hallucinating face by eigentransformation, TSMC-C2005, Xiaogang
@@ -81,7 +85,16 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 -   [TDN] Hallucinating very low-resolution unaligned and noisy face images by
     transformative discriminative autoencoders, AAAI2017, Xin Yu et al.
     [[Web](https://github.com/XinYuANU)]
+    
+-   Face Hallucination by Attentive Sequence Optimization with Reinforcement Learning, Yukai Shi et al. PAMI 2019.
 
+-   Joint Face Hallucination and Deblurring via Structure Generation and Detail Enhancement, Yibing Song et al. IJCV 2019. [[Web](https://ybsong00.github.io/ijcv19_fhd/)]
+
+-   Wavelet Domain Generative Adversarial Network for Multi-scale Face Hallucination, Huaibo Huang et al., IJCV 2109. [[Code](https://github.com/hhb072/WaveletSRNet)]
+
+-   Face hallucination from low quality images using definition-scalable inference, Xiao Hu et al. PR 2019.
+
+-   Can We See More? Joint Frontalization and Hallucination of Unaligned Tiny Faces, Xin Yu et al. PAMI 2019.
 
     
 ###### Structure prior based method (componet, landmarks, salience, heatmaps, etc)
@@ -127,6 +140,8 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 -   Attribute Augmented Convolutional Neural Network for Face Hallucination, CVPRW2018,
     Cheng-Han Lee et al.
     [[PDF](http://openaccess.thecvf.com/content_cvpr_2018_workshops/supplemental/Lee_Attribute_Augmented_Convolutional_CVPR_2018_supplemental.pdf)][[Web](https://steven413d.github.io/)] 
+    
+-   Exemplar Guided Face Image Super-Resolution without Facial Landmarks, CVPRW 2019.
 
 ###### Blind face hallucination
 
@@ -151,6 +166,11 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
     
 -   Verification of Very Low-Resolution Faces Using An Identity-Preserving Deep Face Super-resolution Network,
     TR2018-116, Esra Ataer-Cansizoglu et al. [[PDF]](http://www.merl.com/publications/docs/TR2018-116.pdf)
+    
+-   FH-GAN: Face Hallucination and Recognition using Generative Adversarial Network, arXiv 2019.
+    
+-   SiGAN: Siamese Generative Adversarial Network for Identity-Preserving Face Hallucination, Chih-Chung Hsu et al., TIP 2019. [[Code](https://github.com/jesse1029/SiGAN)]
+    
 
 #### Image Quality Measurement
 
