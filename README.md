@@ -39,6 +39,8 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 
 -   Face Hallucination via Coarse-to-Fine Recursive Kernel Regression Structure, Jingang Shi et al. TMM 2109.
 
+-   Robust Face Image Super-Resolution via Joint Learning of Subdivided Contextual Model, Liang Chen et al. TIP2019. [[PDF](https://ieeexplore.ieee.org/abstract/document/8733990)]
+
 
 
 #### Classical Global Face Methods
