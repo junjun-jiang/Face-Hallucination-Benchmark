@@ -41,6 +41,8 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 
 -   Robust Face Image Super-Resolution via Joint Learning of Subdivided Contextual Model, Liang Chen et al. TIP2019. [[PDF](https://ieeexplore.ieee.org/abstract/document/8733990)]
 
+-   SSR2: Sparse signal recovery for single-image super-resolution on faces with extreme low resolutions, RamziAbiantun et al. PR2019. [[https://www.sciencedirect.com/science/article/abs/pii/S0031320319300597]]
+
 
 
 #### Classical Global Face Methods
@@ -99,7 +101,7 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 -   Can We See More? Joint Frontalization and Hallucination of Unaligned Tiny Faces, Xin Yu et al. PAMI 2019.
 
     
-###### Structure prior based method (componet, landmarks, salience, heatmaps, etc)
+###### Structure prior based method (componet, landmarks, attention, salience, heatmaps, etc)
 
 -   [CBN] Deep cascaded bi-network for face hallucination, ECCV2016, S. Zhu et
     al. [[PDF](https://arxiv.org/abs/1607.05046)][[Web](https://github.com/Liusifei/ECCV16-CBN)]
@@ -128,6 +130,8 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
     
 -   A coarse-to-fine face hallucination method by exploiting facial prior knowledge, ICIP2018,
     Mengyan Li et al. [[PDF](https://github.com/lemoner20/ICIP2018/blob/master/Li.pdf)][[Web](https://github.com/lemoner20/ICIP2018)]
+    
+-   Residual Attribute Attention Network for Face Image Super-Resolution, Jingwei Xin et al. AAAI2019. [[https://wvvw.aaai.org/ojs/index.php/AAAI/article/view/4937]]
     
 -   Progressive Face Super-Resolution via Attention to Facial Landmark, ECCV2019, Deokyun Kim et al. [[PDF](https://arxiv.org/pdf/1908.08239.pdf)][[Code](https://github.com/DeokyunKim/Progressive-Face-Super-Resolution)]
     
