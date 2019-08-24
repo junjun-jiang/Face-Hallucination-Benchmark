@@ -209,6 +209,8 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 
 -   [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
+-   [Helen](http://www.ifp.illinois.edu/~vuongle2/helen/)
+
 -   [Menpo](https://www.menpo.org/)
 
 -   [Widerface](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/)
