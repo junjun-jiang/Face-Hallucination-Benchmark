@@ -127,6 +127,8 @@ implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 -   A coarse-to-fine face hallucination method by exploiting facial prior knowledge, ICIP2018,
     Mengyan Li et al. [[PDF](https://github.com/lemoner20/ICIP2018/blob/master/Li.pdf)][[Web](https://github.com/lemoner20/ICIP2018)]
     
+-   Progressive Face Super-Resolution via Attention to Facial Landmark, ECCV2019, Deokyun Kim et al. [[PDF](https://arxiv.org/pdf/1908.08239.pdf)][[Code](https://github.com/DeokyunKim/Progressive-Face-Super-Resolution)]
+    
 ###### Attribute-Guided method
 
 -   [FaceAttr] Super-resolving very low-resolution face images with
