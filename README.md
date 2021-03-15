@@ -4,7 +4,7 @@ A list of face hallucination/face super-resolution resources collected by [Junju
 Some classical algorithms (including NE, LSR, SR, LcR, LINE, TLcR-RL, and EigTran) that I
 implemented can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 
-# Survey paper
+#### Survey paper
 J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resolution: A Survey,” arXiv preprint arXiv:2101.03749, 2021. [arXiv](https://arxiv.org/abs/2101.03749).
 
 
@@ -44,6 +44,12 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -   Robust Face Image Super-Resolution via Joint Learning of Subdivided Contextual Model, Liang Chen et al. TIP2019. [[PDF](https://ieeexplore.ieee.org/abstract/document/8733990)]
 
 -   SSR2: Sparse signal recovery for single-image super-resolution on faces with extreme low resolutions, RamziAbiantun et al. PR2019. [[https://www.sciencedirect.com/science/article/abs/pii/S0031320319300597]]
+
+-   Robust face hallucination via locality-constrained multiscale coding, L. Liu et al., INS 2020.
+
+-   Face hallucination via multiple feature learning with hierarchical structure, L. Liu et al., INS 2020.
+
+-   Hallucinating Color Face Image by Learning Graph Representation in Quaternion Space, L. Liu et al., TCYB 2021.
 
 
 
@@ -102,6 +108,21 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   Can We See More? Joint Frontalization and Hallucination of Unaligned Tiny Faces, Xin Yu et al. PAMI 2019.
 
+-   Copy and paste GAN: Face hallucination from shaded thumbnails, Y. Zhang et al., CVPR 2020.
+
+-   Recursive Copy and Paste GAN: Face Hallucination from Shaded Thumbnails, Y. Zhang et al., PAMI 2021.
+
+-   Face Hallucination With Finishing Touches, Y. Zhang et al., TIP 2021.
+
+-   Dual-path deep fusion network for face image hallucination, K. Jiang, TMM 2020.
+
+-   Cross-spectral face hallucination via disentangling independent factors, B. Duan et al., CVPR 2020.
+
+-   Hallucinating Unaligned Face Images by Multiscale Transformative Discriminative Networks, X. Yu et al., IJCV 2021.
+
+
+
+
     
 ###### Structure prior based method (componet, landmarks, attention, salience, heatmaps, etc)
 
@@ -136,6 +157,8 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -   Residual Attribute Attention Network for Face Image Super-Resolution, Jingwei Xin et al. AAAI2019. [[https://wvvw.aaai.org/ojs/index.php/AAAI/article/view/4937]]
     
 -   Progressive Face Super-Resolution via Attention to Facial Landmark, ECCV2019, Deokyun Kim et al. [[PDF](https://arxiv.org/pdf/1908.08239.pdf)][[Code](https://github.com/DeokyunKim/Progressive-Face-Super-Resolution)]
+
+-   Semantic-driven Face Hallucination Based on Residual Network, X. Yu et al., TBIOM 2020.
     
 ###### Attribute-Guided method
 
@@ -152,6 +175,8 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
     [[PDF](http://openaccess.thecvf.com/content_cvpr_2018_workshops/supplemental/Lee_Attribute_Augmented_Convolutional_CVPR_2018_supplemental.pdf)][[Web](https://steven413d.github.io/)] 
     
 -   Exemplar Guided Face Image Super-Resolution without Facial Landmarks, CVPRW 2019.
+
+-   Deep Face Super-Resolution With Iterative Collaboration Between Attentive Recovery and Landmark Estimation, Cheng Ma et al., CVPR 2020.
 
 ###### Blind face hallucination
 
@@ -181,6 +206,8 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
     
 -   SiGAN: Siamese Generative Adversarial Network for Identity-Preserving Face Hallucination, Chih-Chung Hsu et al., TIP 2019. [[Code](https://github.com/jesse1029/SiGAN)]
     
+-   Discriminative face hallucination via locality-constrained and category embedding representation, L. Liu et al., TSMC 2020.
+
 
 #### Image Quality Measurement
 
