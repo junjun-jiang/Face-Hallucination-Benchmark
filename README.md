@@ -286,7 +286,7 @@ implemented by myself can be found [here](https://github.com/junjun-jiang/TLcR-R
 
 -   RMSE, PSNR, SSIM, LPIPS, NIQE, FID
 
--   Face recognition rate
+-   Face Rcognition Rate
 
 -   Mean Opinion Score (MOS)
 
