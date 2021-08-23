@@ -4,11 +4,11 @@ A list of face hallucination/face super-resolution resources collected by [Junju
 Some classical algorithms (including NE, LSR, SR, LcR, LINE, TLcR-RL, and EigTran) 
 implemented by myself can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 
-#### Survey paper
+## Survey paper
 J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resolution: A Survey,” arXiv preprint arXiv:2101.03749, 2021. [arXiv](https://arxiv.org/abs/2101.03749).
 
-#### Classical Methods
-###### Classical Patch-based Methods
+## Classical Methods
+### Classical Patch-based Methods
 
 -   Hallucinating face, FG2000, S. Baker and T. Kanade.
     [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=840616)]
@@ -53,7 +53,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 
 
-###### Classical Global Face Methods
+### Classical Global Face Methods
 
 -   [EigTran] Hallucinating face by eigentransformation, TSMC-C2005, Xiaogang
     Wang et al. [[Web](https://github.com/junjun-jiang/TLcR-RL)]
@@ -71,7 +71,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -   Structured face hallucination, CVPR2013, Y. Yang et al.
     [[Web](https://eng.ucmerced.edu/people/cyang35/CVPR13/CVPR13.html)]
 
-###### Classical Two-Step Methods
+### Classical Two-Step Methods
 
 -   A two-step approach to hallucinating faces: global parametric model and
     local nonparametric model, CVPR2001, Ce Liu et al.
@@ -85,8 +85,8 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
     analysis, PR2010, Hua Huang et al.
     [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320310000853)]
 
-#### Deep learning-based Methods
-###### General FSR Methods
+## Deep learning-based Methods
+### General FSR Methods
 
 -   [BCCNN] Learning Face Hallucination in the Wild, E. Zhou et al., AAAI2015.
 
@@ -173,7 +173,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -   [MLGE] Multi-Laplacian GAN with Edge Enhancement for Face Super Resolution, S. Ko et al., ICPR 2021. 
 
     
-###### Prior-guided FSR Methods
+### Prior-guided FSR Methods
 
 -   [CBN] Deep cascaded bi-network for face hallucination, S. Zhu et
     al., ECCV 2016. [[PDF](https://arxiv.org/abs/1607.05046)][[Web](https://github.com/Liusifei/ECCV16-CBN)]
@@ -236,13 +236,8 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   Unsupervised face super-resolution via gradient enhancement and semantic guidance, L. Li et al., VC 2021.
 
-
-
-
-
-
     
-###### Attribute-constrained FSR Methods
+### Attribute-constrained FSR Methods
 
 -   [FaceAttr] Super-resolving very low-resolution face images with
     supplementary attributes, CVPR2018, Xin Yu et al.
@@ -264,7 +259,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   [ATSENet] Learning Face Image Super-Resolution through Facial Semantic Attribute Transformation and Self-Attentive Structure Enhancement, M. Li et al., TMM 2020.
     
-###### Idnetity-preserving FSR Methods
+### Idnetity-preserving FSR Methods
 
 -   [SICNN] Super-Identity Convolutional Neural Network for Face Hallucination, K. Zhang et al., ECCV 2018. [[PDF]](https://arxiv.org/pdf/1811.02328.pdf)[[Web]](http://kpzhang93.github.io/)
 
@@ -295,8 +290,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -   Edge and identity preserving network for face super-resolution, J. Kim et al., Neurocomputing 2021.
 
 
-
-###### Reference FSR Methods
+### Reference FSR Methods
 -   [GFRNet] Learning Warped Guidance for Blind Face Restoration, X. Li et al., ECCV 2019.
     
 -   [GWAInet] Exemplar Guided Face Image Super-Resolution without Facial Landmarks, CVPRW 2019.
@@ -309,9 +303,9 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   [DFDNet] Blind Face Restoration via Deep Multi-scale Component Dictionaries, X. Li et al. ECCV 2020. [[Web](https://github.com/csxmli2016/DFDNet)]
 
-###### Joint Tasks
+### Joint Tasks
 
- Joint Face Completion and Super-resolution
+#### Joint Face Completion and Super-resolution
 
 -   Hallucinating very low-resolution and obscured face images, L. Yang et al., ARXIV 2018.
 
@@ -323,36 +317,44 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   Pro-UIGAN: Progressive Face Hallucination from Occluded Thumbnails, Y. Zhang et al., ARXIV 2021.
 
- Joint Face Alignment and Super-resolution
+
+#### Joint Face Deblurring and Super-resolution 
+
+-   Learning to Super-Resolve Blurry Face and Text Images, X. Yu et al., ICCV 2017.
+-   Joint face hallucination and deblurring via structure generation and detail enhancement, Y. Song et al., IJCV 2019.
+-   [DGFAN] Deblurring And Super-Resolution Using Deep Gated Fusion Attention Networks For Face Images, C. H. Yang et al., ICASSP 2020. 
+-   Super-resolving blurry face images with identity preservation, Y. Xu et al., PRL 2021.
+
+#### Joint Face Alignment and Super-resolution
 
 -   [TDAE] Hallucinating very low-resolution unaligned and noisy face images, X. Yu et al., CVPR 2017. [[Web](https://github.com/XinYuANU)]    
-
 -   [TDN] Hallucinating very low-resolution unaligned and noisy face images by
-    transformative discriminative autoencoders, X. Yu et al., AAAI 2017.[[Web](https://github.com/XinYuANU)]
-    
+    transformative discriminative autoencoders, X. Yu et al., AAAI 2017.[[Web](https://github.com/XinYuANU)]  
 -   [MTDN] Hallucinating Unaligned Face Images by Multiscale Transformative Discriminative Networks, X. Yu et al., IJCV 2021.
 
 
- Joint Illumination Compensation and Super-resolution
-
+#### Joint Illumination Compensation and Super-resolution
+-   [SeLENet] SeLENet: A Semi-Supervised Low Light Face Enhancement Method for Mobile Face Unlock, H. A. Le et al., ICB 2019.
+-  Learning To See Faces In The Dark，X. Ding et al., ICME 2020.
 -   [CPGAN] Copy and paste GAN: Face hallucination from shaded thumbnails, Y. Zhang et al., CVPR 2020.
-
 -   Recursive Copy and Paste GAN: Face Hallucination from Shaded Thumbnails, Y. Zhang et al., TPAMI 2021.
+-   Network Architecture Search for Face Enhancement, R. Yasarla et al., ARXIV 2021.
 
- Joint Face Fronlization and Super-resolution
+
+#### Joint Face Fronlization and Super-resolution
 
 -   Can We See More? Joint Frontalization and Hallucination of Unaligned Tiny Faces, X. Yu et al. TPAMI 2019.
-
 -   Face Hallucination With Finishing Touches, Y. Zhang et al., TIP 2021.
+-   Joint Face Image Restoration and Frontalization for Recognition, X. Tu et al., TCSVT 2021.
 
 
-###### Related Applications
+### Related Applications
 
 -   Cross-spectral face hallucination via disentangling independent factors, B. Duan et al., CVPR 2020.
 
     
 
-#### Image Quality Measurement
+## Image Quality Measurement
 
 -   RMSE, PSNR, SSIM, LPIPS, NIQE, FID
 
@@ -360,9 +362,9 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   Mean Opinion Score (MOS)
 
-#### Databases
+## Databases
 
-###### Classical databases
+### Classical databases
 
 -   [FERET](http://www.nist.gov/itl/iad/ig/colorferet.cfm)
 
@@ -377,7 +379,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -   [WHU-SCF](https://github.com/junjun-jiang/Face-Hallucination-Benchmark)* The last two databases are collected by myself.
 
 
-###### Largescale databases
+### Largescale databases
 
 -   [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
