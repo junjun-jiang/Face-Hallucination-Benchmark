@@ -8,7 +8,7 @@ implemented by myself can be found [here](https://github.com/junjun-jiang/TLcR-R
 J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resolution: A Survey,” arXiv preprint arXiv:2101.03749, 2021. [arXiv](https://arxiv.org/abs/2101.03749).
 
 #### Classical Methods
-##### Classical Patch-based Methods
+###### Classical Patch-based Methods
 
 -   Hallucinating face, FG2000, S. Baker and T. Kanade.
     [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=840616)]
@@ -53,7 +53,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 
 
-##### Classical Global Face Methods
+###### Classical Global Face Methods
 
 -   [EigTran] Hallucinating face by eigentransformation, TSMC-C2005, Xiaogang
     Wang et al. [[Web](https://github.com/junjun-jiang/TLcR-RL)]
@@ -71,7 +71,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -   Structured face hallucination, CVPR2013, Y. Yang et al.
     [[Web](https://eng.ucmerced.edu/people/cyang35/CVPR13/CVPR13.html)]
 
-##### Classical Two-Step Methods
+###### Classical Two-Step Methods
 
 -   A two-step approach to hallucinating faces: global parametric model and
     local nonparametric model, CVPR2001, Ce Liu et al.
