@@ -1,13 +1,13 @@
 # Face-Hallucination-Benchmark
 A list of face hallucination/face super-resolution resources collected by [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun).
 
+#### Survey paper
+J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resolution: A Survey,” accepted to ACM Computing Surveys. [arXiv](https://arxiv.org/abs/2101.03749).
+
+#### Classical Methods
 Some classical algorithms (including NE, LSR, SR, LcR, LINE, TLcR-RL, and EigTran) 
 implemented by myself can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 
-#### Survey paper
-J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resolution: A Survey,” arXiv preprint arXiv:2101.03749, 2021. [arXiv](https://arxiv.org/abs/2101.03749).
-
-#### Classical Methods
 ###### Classical Patch-based Methods
 
 -   Hallucinating face, FG2000, S. Baker and T. Kanade.
