@@ -4,6 +4,20 @@ A list of face hallucination/face super-resolution resources collected by [Junju
 #### Survey paper
 J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resolution: A Survey,” accepted to ACM Computing Surveys. [arXiv](https://arxiv.org/abs/2101.03749).
 
+
+```
+@article{jiang2021csur,
+  title={Deep Learning-based Face Super-resolution: A Survey},
+  author={Jiang, Junjun and Wang, Chenyang and Liu, Xianming, and Ma, Jiayi},
+  journal={ACM Computing Surveys},
+  volume={},
+  number={},
+  pages={},
+  year={2021},
+  publisher={ACM}
+}
+```
+
 #### Classical Methods
 Some classical algorithms (including NE, LSR, SR, LcR, LINE, TLcR-RL, and EigTran) 
 implemented by myself can be found [here](https://github.com/junjun-jiang/TLcR-RL).
