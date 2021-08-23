@@ -350,9 +350,29 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 ### Related Applications
 
--   Cross-spectral face hallucination via disentangling independent factors, B. Duan et al., CVPR 2020.
+#### Face Video Super-resolution
 
-    
+-   Face video super-resolution with identity guided generative adversarial networks, D. Li et al., CCCV 2017.
+-   Super-resolution of Very Low-Resolution Faces from Videos, E. Ataer-Cansizoglu et al., BMVC 2018.
+-   Video Face Super-Resolution with Motion-Adaptive Feedback Cell, J. Xin et al., AAAI 2020.
+-   Self-Enhanced Convolutional Network for Facial Video Hallucination, C. Fang et al., TIP 2020.
+-   VidFace: A Full-Transformer Solver for Video FaceHallucination with Unaligned Tiny Snapshots, Y. GAN et al., ARXIV 2021.
+-   [MDVDNet] Multi-modality Deep Restoration of Extremely Compressed Face Videos, X. Zhang et al., ARXIV 2021.
+
+#### Old Photo Restoration
+
+-   [BOPBL] Bringing Old Photos Back to Life, Z. Wan et al., CVPR 2020.
+
+#### Audio-guided FSR
+-   Learning to Have an Ear for Face Super-Resolution, G. Meishvili et al., CVPR 2020.
+
+#### Cross Spectral FSR
+
+-   Not Afraid of the Dark: NIR-VIS Face Recognition via Cross-Spectral Hallucination and Low-Rank Embeddin, J. Lezama et al., CVPR 2017.
+-   Adversarial discriminative heterogeneous face recognition, L. Song et al., ARXIV 2017.
+-   Pose-preserving Cross Spectral Face Hallucination, J. Yu et al., IJCAI 2019.
+-   Cross-spectral face hallucination via disentangling independent factors, B. Duan et al., CVPR 2020.
+-   [Axial-GAN] Simultaneous Face Hallucination and Translation for Thermal to Visible Face Verification using Axial-GAN, B. Immidisetti et al., IJCB 2021.
 
 ## Image Quality Measurement
 
