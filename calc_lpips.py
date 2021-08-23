@@ -62,8 +62,8 @@ if __name__ == "__main__":
     import os
     import glob
     from PIL import Image
-    GT_path = '/home/zhwzhong/wcy2020/data/CelebA/test/HR/'
-    SR_path = '/home/zhwzhong/wcy2020/data/result_survey/compare_results/x4/nlsn-general'
+    GT_path = '/data/CelebA/test/HR/'
+    SR_path = '/comparison_results/x4/nlsn'
     files_GT = sorted(glob.glob(os.path.join(GT_path, "*.png")))
     files_SR = sorted(glob.glob(os.path.join(SR_path, "*.png")))
     lpips_sum = 0
