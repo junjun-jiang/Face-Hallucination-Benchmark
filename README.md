@@ -7,7 +7,7 @@ implemented by myself can be found [here](https://github.com/junjun-jiang/TLcR-R
 ## Survey paper
 J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resolution: A Survey,” arXiv preprint arXiv:2101.03749, 2021. [arXiv](https://arxiv.org/abs/2101.03749).
 
-We provide the training sets, and the experimental results of several state-of-the-art methods in  [[Baidu Drive](https://github.com/junjun-jiang/TLcR-RL)]. Note that the partition of the dataset follows [[DIC](https://github.com/Maclory/Deep-Iterative-Collaboration)]. The clac_lpips.py and eval_psnr_ssim.py are built on [[DIC](https://github.com/Maclory/Deep-Iterative-Collaboration)] and [[LPIPS](https://github.com/richzhang/PerceptualSimilarity)]. We thank the authors for sharing their codes.
+We provide the training sets, and the experimental results of several state-of-the-art methods in  [[Baidu Drive](https://github.com/junjun-jiang/TLcR-RL)]. Note that the partition of the dataset follows [[DIC](https://github.com/Maclory/Deep-Iterative-Collaboration)]. The calc_lpips.py and eval_psnr_ssim.py are built on [[DIC](https://github.com/Maclory/Deep-Iterative-Collaboration)] and [[LPIPS](https://github.com/richzhang/PerceptualSimilarity)]. We thank the authors for sharing their codes. 
 
 
 
