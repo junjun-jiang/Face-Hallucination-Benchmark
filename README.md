@@ -311,7 +311,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 ###### Joint Tasks
 
-######## Joint Face Completion and Super-resolution
+ Joint Face Completion and Super-resolution
 
 -   Hallucinating very low-resolution and obscured face images, L. Yang et al., ARXIV 2018.
 
@@ -323,7 +323,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   Pro-UIGAN: Progressive Face Hallucination from Occluded Thumbnails, Y. Zhang et al., ARXIV 2021.
 
-######## Joint Face Alignment and Super-resolution
+ Joint Face Alignment and Super-resolution
 
 -   [TDAE] Hallucinating very low-resolution unaligned and noisy face images, X. Yu et al., CVPR 2017. [[Web](https://github.com/XinYuANU)]    
 
@@ -333,13 +333,13 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -   [MTDN] Hallucinating Unaligned Face Images by Multiscale Transformative Discriminative Networks, X. Yu et al., IJCV 2021.
 
 
-####### Joint Illumination Compensation and Super-resolution
+ Joint Illumination Compensation and Super-resolution
 
 -   [CPGAN] Copy and paste GAN: Face hallucination from shaded thumbnails, Y. Zhang et al., CVPR 2020.
 
 -   Recursive Copy and Paste GAN: Face Hallucination from Shaded Thumbnails, Y. Zhang et al., TPAMI 2021.
 
-####### Joint Face Fronlization and Super-resolution
+ Joint Face Fronlization and Super-resolution
 
 -   Can We See More? Joint Frontalization and Hallucination of Unaligned Tiny Faces, X. Yu et al. TPAMI 2019.
 
