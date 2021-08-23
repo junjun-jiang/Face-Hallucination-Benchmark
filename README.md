@@ -1,17 +1,28 @@
 # Face-Hallucination-Benchmark
 A list of face hallucination/face super-resolution resources collected by [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun).
 
-Some classical algorithms (including NE, LSR, SR, LcR, LINE, TLcR-RL, and EigTran) 
-implemented by myself can be found [here](https://github.com/junjun-jiang/TLcR-RL).
-
 ## Survey paper
-J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resolution: A Survey,” arXiv preprint arXiv:2101.03749, 2021. [arXiv](https://arxiv.org/abs/2101.03749).
+J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resolution: A Survey,” ACM Computing Surveys, In Press. [arXiv](https://arxiv.org/abs/2101.03749).
 
-We provide the training sets, and the experimental results of several state-of-the-art methods in  [[Baidu Drive](https://pan.baidu.com/s/1Xo1qOkYa713tiHBfUbKN4Q)](8pi5)  Note that the partition of the dataset follows [[DIC](https://github.com/Maclory/Deep-Iterative-Collaboration)]. The calc_lpips.py and eval_psnr_ssim.py are built on [[DIC](https://github.com/Maclory/Deep-Iterative-Collaboration)] and [[LPIPS](https://github.com/richzhang/PerceptualSimilarity)]. We thank the authors for sharing their codes. 
+```
+@article{jiang2019hyperspectral,
+  title={Deep Learning-based Face Super-resolution: A Survey},
+  author={Jiang, Junjun and Wang, Chenyang and Liu, Xianming and Ma, Jiayi},
+  journal={ACM Computing Surveys},
+  volume={},
+  number={},
+  pages={},
+  year={2021}
+}
+```
 
+Some classical algorithms (including NE, LSR, SR, LcR, LINE, TLcR-RL, and EigTran) implemented by myself can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 
+As for deep learning-based methods, we provide the training sets, and the experimental results of several state-of-the-art methods in  [[Baidu Drive](https://pan.baidu.com/s/1Xo1qOkYa713tiHBfUbKN4Q)](8pi5)  Note that the partition of the dataset follows [[DIC](https://github.com/Maclory/Deep-Iterative-Collaboration)]. The calc_lpips.py and eval_psnr_ssim.py are built on [[DIC](https://github.com/Maclory/Deep-Iterative-Collaboration)] and [[LPIPS](https://github.com/richzhang/PerceptualSimilarity)]. We thank the authors for sharing their codes. 
 
 ## Classical Methods
+
+
 ### Classical Patch-based Methods
 
 -   Hallucinating face, FG2000, S. Baker and T. Kanade.
