@@ -43,7 +43,7 @@ implemented by myself can be found [here](https://github.com/junjun-jiang/TLcR-R
 
 -   Robust Face Image Super-Resolution via Joint Learning of Subdivided Contextual Model, Liang Chen et al. TIP2019. [[PDF](https://ieeexplore.ieee.org/abstract/document/8733990)]
 
--   SSR2: Sparse signal recovery for single-image super-resolution on faces with extreme low resolutions, RamziAbiantun et al. PR2019. [[https://www.sciencedirect.com/science/article/abs/pii/S0031320319300597]]
+-   SSR2: Sparse signal recovery for single-image super-resolution on faces with extreme low resolutions, RamziAbiantun et al. PR2019. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300597)]
 
 -   Robust face hallucination via locality-constrained multiscale coding, L. Liu et al., INS 2020.
 
@@ -212,7 +212,7 @@ implemented by myself can be found [here](https://github.com/junjun-jiang/TLcR-R
     Cheng-Han Lee et al.
     [[PDF](http://openaccess.thecvf.com/content_cvpr_2018_workshops/supplemental/Lee_Attribute_Augmented_Convolutional_CVPR_2018_supplemental.pdf)][[Web](https://steven413d.github.io/)] 
     
--   Residual Attribute Attention Network for Face Image Super-Resolution, Jingwei Xin et al. AAAI2019. [[https://wvvw.aaai.org/ojs/index.php/AAAI/article/view/4937]]
+-   Residual Attribute Attention Network for Face Image Super-Resolution, Jingwei Xin et al. AAAI2019. [[PDF](https://wvvw.aaai.org/ojs/index.php/AAAI/article/view/4937)]
 
 -   [ATNet] Deep Learning Face Hallucination via Attributes Transfer and Enhancement, M. Li et al., ICME 2019.
 
