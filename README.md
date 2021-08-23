@@ -411,7 +411,8 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   [CMU+MIT](https://github.com/junjun-jiang/Face-Hallucination-Benchmark)*
 
--   [WHU-SCF](https://github.com/junjun-jiang/Face-Hallucination-Benchmark)* The last two databases are collected by myself.
+-   [WHU-SCF](https://github.com/junjun-jiang/Face-Hallucination-Benchmark)* 
+The last two databases are collected by myself.
 
 
 ### Largescale databases
