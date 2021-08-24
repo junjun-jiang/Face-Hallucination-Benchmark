@@ -80,7 +80,7 @@ if __name__ == "__main__":
         # print(np.max(SR))
         lpips = calc_metrics_common(SR, HR, crop_border=8)
 
-        lpips = lpips + lpips
+        lpips_sum = lpips_sum + lpips
         print(lpips)
 
     print(lpips_sum/len(files_GT))
