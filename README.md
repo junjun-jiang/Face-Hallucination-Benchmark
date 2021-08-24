@@ -362,13 +362,12 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 #### Audio-guided FSR
 -   Learning to Have an Ear for Face Super-Resolution, G. Meishvili et al., CVPR 2020.
 
-#### Cross Spectral FSR
+#### 3D FSR
 
--   Not Afraid of the Dark: NIR-VIS Face Recognition via Cross-Spectral Hallucination and Low-Rank Embeddin, J. Lezama et al., CVPR 2017.
--   Adversarial discriminative heterogeneous face recognition, L. Song et al., ArXiv 2017.
--   Pose-preserving Cross Spectral Face Hallucination, J. Yu et al., IJCAI 2019.
--   Cross-spectral face hallucination via disentangling independent factors, B. Duan et al., CVPR 2020.
--   [Axial-GAN] Simultaneous Face Hallucination and Translation for Thermal to Visible Face Verification using Axial-GAN, B. Immidisetti et al., IJCB 2021.
+-   Super-resolution of 3D face, G. Fan et al., ECCV 2006.
+-   3D face hallucination from a single depth frame, L. Shu et al., 3DV 2014.
+-   Robust 3D patch-based face hallucination, C. Qu et al., WACV 2017.
+-   3D Face Point Cloud Super-Resolution Network, J. Li et al., IJCB 2021.
 
 ## Image Quality Measurement
 
