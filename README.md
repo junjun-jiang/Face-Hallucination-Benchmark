@@ -156,7 +156,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   [DPDFN] Dual-path deep fusion network for face image hallucination, K. Jiang, TMM 2020.
 
--   Real-World Super-Resolution of Face-Images from Surveillance Cameras, A. Aakerberg et al., ArXIv 2021.
+-   Real-World Super-Resolution of Face-Images from Surveillance Cameras, A. Aakerberg et al., ArXiv 2021.
 
 -   GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution, K. C. K. Chan et al., CVPR 2021.
 
@@ -267,7 +267,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   [IPFH] Identity-Preserving Face Hallucination via Deep Reinforcement Learning, X. Cheng et al., TCSVT 2019.
 
--   Verification of Very Low-Resolution Faces Using An Identity-Preserving Deep Face Super-resolution Network, E. Ataer-Cansizoglu et al., ARXIV 2019.
+-   Verification of Very Low-Resolution Faces Using An Identity-Preserving Deep Face Super-resolution Network, E. Ataer-Cansizoglu et al., ArXiv 2019.
 
 -   Optimizing Super Resolution for Face Recognition, A. A. Abello et al., SIBGRAPI 2019.
 
@@ -303,15 +303,15 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 #### Joint Face Completion and Super-resolution
 
--   Hallucinating very low-resolution and obscured face images, L. Yang et al., ARXIV 2018.
+-   Hallucinating very low-resolution and obscured face images, L. Yang et al., ArXiv 2018.
 
 -   FCSR-GAN: End-to-end Learning for Joint Face Completion and Super-resolution, J. Cai et al., FG 2019.
 
 -   FCSR-GAN: Joint Face Completion and Super-Resolution via Multi-Task Learning, J. Cai et al., TBIOM 2020.
 
--   [MFG-GAN] Joint Face Completion and Super-resolution using Multi-scale Feature Relation Learning, Z. Liu et al., ARXIV 2020.
+-   [MFG-GAN] Joint Face Completion and Super-resolution using Multi-scale Feature Relation Learning, Z. Liu et al., ArXiv 2020.
 
--   Pro-UIGAN: Progressive Face Hallucination from Occluded Thumbnails, Y. Zhang et al., ARXIV 2021.
+-   Pro-UIGAN: Progressive Face Hallucination from Occluded Thumbnails, Y. Zhang et al., ArXiv 2021.
 
 
 #### Joint Face Deblurring and Super-resolution 
@@ -334,7 +334,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -  Learning To See Faces In The Dark，X. Ding et al., ICME 2020.
 -   [CPGAN] Copy and paste GAN: Face hallucination from shaded thumbnails, Y. Zhang et al., CVPR 2020.
 -   Recursive Copy and Paste GAN: Face Hallucination from Shaded Thumbnails, Y. Zhang et al., TPAMI 2021.
--   Network Architecture Search for Face Enhancement, R. Yasarla et al., ARXIV 2021.
+-   Network Architecture Search for Face Enhancement, R. Yasarla et al., ArXiv 2021.
 
 
 #### Joint Face Fronlization and Super-resolution
@@ -352,8 +352,8 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -   Super-resolution of Very Low-Resolution Faces from Videos, E. Ataer-Cansizoglu et al., BMVC 2018.
 -   Video Face Super-Resolution with Motion-Adaptive Feedback Cell, J. Xin et al., AAAI 2020.
 -   Self-Enhanced Convolutional Network for Facial Video Hallucination, C. Fang et al., TIP 2020.
--   VidFace: A Full-Transformer Solver for Video FaceHallucination with Unaligned Tiny Snapshots, Y. GAN et al., ARXIV 2021.
--   [MDVDNet] Multi-modality Deep Restoration of Extremely Compressed Face Videos, X. Zhang et al., ARXIV 2021.
+-   VidFace: A Full-Transformer Solver for Video FaceHallucination with Unaligned Tiny Snapshots, Y. GAN et al., ArXiv 2021.
+-   [MDVDNet] Multi-modality Deep Restoration of Extremely Compressed Face Videos, X. Zhang et al., ArXiv 2021.
 
 #### Old Photo Restoration
 
@@ -365,7 +365,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 #### Cross Spectral FSR
 
 -   Not Afraid of the Dark: NIR-VIS Face Recognition via Cross-Spectral Hallucination and Low-Rank Embeddin, J. Lezama et al., CVPR 2017.
--   Adversarial discriminative heterogeneous face recognition, L. Song et al., ARXIV 2017.
+-   Adversarial discriminative heterogeneous face recognition, L. Song et al., ArXiv 2017.
 -   Pose-preserving Cross Spectral Face Hallucination, J. Yu et al., IJCAI 2019.
 -   Cross-spectral face hallucination via disentangling independent factors, B. Duan et al., CVPR 2020.
 -   [Axial-GAN] Simultaneous Face Hallucination and Translation for Thermal to Visible Face Verification using Axial-GAN, B. Immidisetti et al., IJCB 2021.
