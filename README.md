@@ -25,40 +25,33 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 ### Classical Patch-based Methods
 
--   Hallucinating face, FG2000, S. Baker and T. Kanade.
+-   Hallucinating face, S. Baker and T. Kanade, FG 2000.
     [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=840616)]
 
--   [NE] Super-resolution through neighbor embedding, CVPR2004, Chang et al.
+-   [NE] Super-resolution through neighbor embedding, Chang et al. CVPR 2004.
     [[Web](https://github.com/junjun-jiang/TLcR-RL)]
 
--   [LSR] Hallucinating face by position-patch, PR2010, Ma et al.
+-   [LSR] Hallucinating face by position-patch, Ma et al., PR 2010.
     [[Web](https://github.com/junjun-jiang/TLcR-RL)]
 
--   [SR] Position-patch based face hallucination using convex optimization,
-    SPL2010, Jung et al. [[Web](https://github.com/junjun-jiang/TLcR-RL)]
+-   [SR] Position-patch based face hallucination using convex optimization, C. Jung et al., SPL 2010. [[Web](https://github.com/junjun-jiang/TLcR-RL)]
 
--   [LcR] Noise robust face hallucination via locality-constrained
-    representation, TMM2104, Jiang et al.
-    [[Web](https://github.com/junjun-jiang)]
+-   [LcR] Noise robust face hallucination via locality-constrained representation, J. Jiang et al., TMM 2014.[[Web](https://github.com/junjun-jiang)]
 
--   [LINE] Multilayer Locality-Constrained Iterative Neighbor Embedding,
-    TIP2014, Jiang et al. [[Web](https://github.com/junjun-jiang)]
+-   [LINE] Multilayer Locality-Constrained Iterative Neighbor Embedding, J. Jiang et al., TIP 2014. [[Web](https://github.com/junjun-jiang)]
 
--   Face Hallucination Using Linear Models of Coupled Sparse Support, TIP 2017,
-    Reuben A. Farrugia et al.
-    [[PDF](https://ieeexplore.ieee.org/document/7953547/)][[Web](https://www.um.edu.mt/staff/reuben.farrugia)]
+-   Face Hallucination Using Linear Models of Coupled Sparse Support, R. A. Farrugia et al., TIP 2017.[[PDF](https://ieeexplore.ieee.org/document/7953547/)][[Web](https://www.um.edu.mt/staff/reuben.farrugia)]
 
--   Hallucinating Face Image by Regularization Models in High-Resolution Feature
-    Space, TIP2018, Jingang Shi et al.
+-   Hallucinating Face Image by Regularization Models in High-Resolution Feature Space, J. Shi et al., TIP 2018.
     [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8310603)]
     
--   [TLcR-RL] Context-Patch based Face Hallucination via Thresholding Locality-Constrained Representation and Reproducing Learning, TCYB2018, Junjun Jiang et al. [[PDF]](https://arxiv.org/abs/1809.00665)[[Web](https://github.com/junjun-jiang/TLcR-RL)]
+-   [TLcR-RL] Context-Patch based Face Hallucination via Thresholding Locality-Constrained Representation and Reproducing Learning, J. Jiang et al., TCYB 2018. [[PDF]](https://arxiv.org/abs/1809.00665)[[Web](https://github.com/junjun-jiang/TLcR-RL)]
 
--   Face Hallucination via Coarse-to-Fine Recursive Kernel Regression Structure, Jingang Shi et al. TMM 2109.
+-   Face Hallucination via Coarse-to-Fine Recursive Kernel Regression Structure, J. Shi et al. TMM 2019.
 
--   Robust Face Image Super-Resolution via Joint Learning of Subdivided Contextual Model, Liang Chen et al. TIP 2019. [[PDF](https://ieeexplore.ieee.org/abstract/document/8733990)]
+-   Robust Face Image Super-Resolution via Joint Learning of Subdivided Contextual Model, L. Chen et al. TIP 2019. [[PDF](https://ieeexplore.ieee.org/abstract/document/8733990)]
 
--   SSR2: Sparse signal recovery for single-image super-resolution on faces with extreme low resolutions, RamziAbiantun et al. PR 2019. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300597)]
+-   SSR2: Sparse signal recovery for single-image super-resolution on faces with extreme low resolutions, R. Abiantun et al. PR 2019. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300597)]
 
 -   Robust face hallucination via locality-constrained multiscale coding, L. Liu et al., INS 2020.
 
@@ -70,40 +63,28 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 ### Classical Global Face Methods
 
--   [EigTran] Hallucinating face by eigentransformation, TSMC-C2005, Xiaogang
-    Wang et al. [[Web](https://github.com/junjun-jiang/TLcR-RL)]
+-   [EigTran] Hallucinating face by eigentransformation, X. Wang et al., TSMC-C 2005 [[Web](https://github.com/junjun-jiang/TLcR-RL)]
 
--   Super-resolution of face images using kernel PCA-based prior, TMM 2007, A.
-    Chakrabarti et al. [[PDF](http://ieeexplore.ieee.org/document/4202583/)]
+-   Super-resolution of face images using kernel PCA-based prior, A. Chakrabarti et al., TMM 2007. [[PDF](http://ieeexplore.ieee.org/document/4202583/)]
 
--   A Bayesian Approach to Alignment-Based Image Hallucination, ECCV2012, Ce Liu
-    et al.
-    [[PDF](https://people.csail.mit.edu/celiu/pdfs/ECCV12-ImageHallucination.pdf)]
+-   A Bayesian Approach to Alignment-Based Image Hallucination, C. Liu et al., ECCV 2012.[[PDF](https://people.csail.mit.edu/celiu/pdfs/ECCV12-ImageHallucination.pdf)]
 
--   A convex approach for image hallucination, AAPRW 2013, P. Innerhofer et al.
-    [[Code](http://www.escience.cn/system/file?fileId=88901)]
+-   A convex approach for image hallucination, P. Innerhofer et al., AAPRW 2013.[[Code](http://www.escience.cn/system/file?fileId=88901)]
 
--   Structured face hallucination, CVPR2013, Y. Yang et al.
-    [[Web](https://eng.ucmerced.edu/people/cyang35/CVPR13/CVPR13.html)]
+-   Structured face hallucination, Y. Yang et al., CVPR 2013.[[Web](https://eng.ucmerced.edu/people/cyang35/CVPR13/CVPR13.html)]
 
 ### Classical Two-Step Methods
 
--   A two-step approach to hallucinating faces: global parametric model and
-    local nonparametric model, CVPR2001, Ce Liu et al.
-    [[Web](https://people.csail.mit.edu/celiu/FaceHallucination/fh.html)]
+-   A two-step approach to hallucinating faces: global parametric model and local nonparametric model, C. Liu et al., CVPR 2001.[[Web](https://people.csail.mit.edu/celiu/FaceHallucination/fh.html)]
 
--   Hallucinating faces: LPH super-resolution and neighbor reconstruction for
-    residue compensation, PR2007, Yuting Zhuang et al.
-    [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320307001355)]
+-   Hallucinating faces: LPH super-resolution and neighbor reconstruction for residue compensation, Y. Zhuang et al., PR 2007.[[PDF](https://www.sciencedirect.com/science/article/pii/S0031320307001355)]
 
--   [CCA] Super-resolution of human face image using canonical correlation
-    analysis, PR2010, Hua Huang et al.
-    [[PDF](https://www.sciencedirect.com/science/article/pii/S0031320310000853)]
+-   [CCA] Super-resolution of human face image using canonical correlation analysis, H. Huang et al., PR 2010.[[PDF](https://www.sciencedirect.com/science/article/pii/S0031320310000853)]
 
 ## Deep learning-based Methods
 ### General FSR Methods
 
--   [BCCNN] Learning Face Hallucination in the Wild, E. Zhou et al., AAAI2015.
+-   [BCCNN] Learning Face Hallucination in the Wild, E. Zhou et al., AAAI 2015.
 
 -   [URDGN] Ultra-resolving face images by discriminative generative networks, X. Yu et al., CVPR 2016. [[Web](https://github.com/XinYuANU)]
 
@@ -117,7 +98,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   Face hallucination using region-based deep convolutional networks, T. Lu et al., ICIP 2017.
 
--   Face Super-Resolution Through Wasserstein GANs. Z. Chen et al., ArXIv 2017.
+-   Face Super-Resolution Through Wasserstein GANs. Z. Chen et al., ArXiv 2017.
 
 -   High-Quality Face Image SR Using Conditional Generative Adversarial Networks, B. Huang et al., ArXiv 2017.
 
@@ -147,7 +128,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   ATMFN: Adaptive-threshold-based Multi-model Fusion Network for Compressed Face Hallucination, K. Jiang et al., TMM 2019.
 
--   [SRDSI] Face hallucination from low quality images using definition-scalable inference, X.Hu et al. PR 2019.
+-   [SRDSI] Face hallucination from low quality images using definition-scalable inference, X. Hu et al. PR 2019.
 
 -   RBPNET: An asymptotic Residual Back-Projection Network for super-resolution of very low-resolution face image, X. Wang et al., Neurocomputing 2020.
 
