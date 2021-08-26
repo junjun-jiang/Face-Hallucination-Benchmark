@@ -92,6 +92,8 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   [GLN] Global-Local Face Upsampling Network, O. Tuzel et al., ArXiv 2016.
 
+-   [GLFSR] Global-local fusion network for face super-resolution, Tao Lu et al., Neurocomputing 2020.
+
 -   Patch-based face hallucination with multitask deep neural network, W. Ko et al., ICME 2016.
 
 -   Face hallucination by deep traversal network, Z. Feng et at., ICPR 2016.
