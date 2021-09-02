@@ -82,6 +82,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -   [CCA] Super-resolution of human face image using canonical correlation analysis, H. Huang et al., PR 2010.[[PDF](https://www.sciencedirect.com/science/article/pii/S0031320310000853)]
 
 ## Deep learning-based Methods
+
 ### General FSR Methods
 
 -   [BCCNN] Learning Face Hallucination in the Wild, E. Zhou et al., AAAI 2015.
@@ -289,6 +290,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 
 ### Reference FSR Methods
+
 -   [GFRNet] Learning Warped Guidance for Blind Face Restoration, X. Li et al., ECCV 2019.
     
 -   [GWAInet] Exemplar Guided Face Image Super-Resolution without Facial Landmarks, CVPRW 2019.
@@ -332,6 +334,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 
 #### Joint Illumination Compensation and Super-resolution
+
 -   [SeLENet] SeLENet: A Semi-Supervised Low Light Face Enhancement Method for Mobile Face Unlock, H. A. Le et al., ICB 2019.
 -  Learning To See Faces In The Dark，X. Ding et al., ICME 2020.
 -   [CPGAN] Copy and paste GAN: Face hallucination from shaded thumbnails, Y. Zhang et al., CVPR 2020.
@@ -362,6 +365,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -   [BOPBL] Bringing Old Photos Back to Life, Z. Wan et al., CVPR 2020.
 
 #### Audio-guided FSR
+
 -   Learning to Have an Ear for Face Super-Resolution, G. Meishvili et al., CVPR 2020.
 
 #### 3D FSR
@@ -370,6 +374,10 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -   3D face hallucination from a single depth frame, L. Shu et al., 3DV 2014.
 -   Robust 3D patch-based face hallucination, C. Qu et al., WACV 2017.
 -   3D Face Point Cloud Super-Resolution Network, J. Li et al., IJCB 2021.
+
+#### Hyperspectral FSR
+
+-   [SPARNet]Learning Spatial Attention for Face Super-Resolution, C. Chen et al., TIP 2020. [[Web](https://github.com/chaofengc/Face-SPARNet)]
 
 ## Image Quality Measurement
 
