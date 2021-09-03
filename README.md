@@ -377,7 +377,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 #### Hyperspectral FSR
 
--   [SPARNet]Learning Spatial Attention for Face Super-Resolution, C. Chen et al., TIP 2020. [[Web](https://github.com/chaofengc/Face-SPARNet)]
+-   [SSANet]Spectral Splitting and Aggregation Network for Hyperspectral Face Super-Resolution, J. Jiang et al., arXiv 2021. [[PDF](https://arxiv.org/abs/2108.13584)]
 
 ## Image Quality Measurement
 
