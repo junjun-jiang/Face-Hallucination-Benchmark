@@ -1,5 +1,5 @@
 # Face-Hallucination-Benchmark
-A list of face hallucination/face super-resolution resources collected by [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun).
+A list of face face super-resolution/hallucination resources collected by [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun).
 
 ## Survey paper
 J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resolution: A Survey,” ACM Computing Surveys, In Press. [arXiv](https://arxiv.org/abs/2101.03749).
