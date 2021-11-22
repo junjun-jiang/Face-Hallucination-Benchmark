@@ -163,7 +163,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution, K. C. K. Chan et al., CVPR 2021.
 
--   [CFP-GAN] Towards Real-World Blind Face Restoration with Generative Facial Prior, X. Wang et al., CVPR 2021.
+-   [GFP-GAN] Towards Real-World Blind Face Restoration with Generative Facial Prior, X. Wang et al., CVPR 2021.
 
 -   [GPEN] GAN Prior Embedded Network for Blind Face Restoration in the Wild, T. Yang et al., CVPR 2021.
 
