@@ -258,6 +258,8 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   [ATSENet] Learning Face Image Super-Resolution through Facial Semantic Attribute Transformation and Self-Attentive Structure Enhancement, M. Li et al., TMM 2020.
     
+-   [AGA-GAN] AGA-GAN: Attribute Guided Attention Generative Adversarial Network with U-Net for Face Hallucination, A. Srivastava et al. ArXiv 2021. [[PDF]](https://arxiv.org/pdf/2111.10591.pdf)
+
 ### Idnetity-preserving FSR Methods
 
 -   [SICNN] Super-Identity Convolutional Neural Network for Face Hallucination, K. Zhang et al., ECCV 2018. [[PDF]](https://arxiv.org/pdf/1811.02328.pdf)[[Web]](http://kpzhang93.github.io/)
