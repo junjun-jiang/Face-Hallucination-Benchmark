@@ -9,10 +9,10 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
   title={Deep Learning-based Face Super-resolution: A Survey},
   author={Jiang, Junjun and Wang, Chenyang and Liu, Xianming and Ma, Jiayi},
   journal={ACM Computing Surveys},
-  volume={},
-  number={},
-  pages={},
-  year={2021}
+  volume={55},
+  number={1},
+  pages={1-36},
+  year={2023}
 }
 ```
 
