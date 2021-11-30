@@ -2,7 +2,7 @@
 A list of face face super-resolution/hallucination resources collected by [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun). If you find these resources are useful, please cite our following sruvey paper.
 
 ## Survey paper
-J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resolution: A Survey,” ACM Computing Surveys, vol. 55, no. 1, pp. 1-36, 2023. [pdf](https://dl.acm.org/doi/full/10.1145/3485132).
+J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resolution: A Survey,” ACM Computing Surveys, vol. 55, no. 1, pp. 1-36, 2023. [[pdf](https://dl.acm.org/doi/full/10.1145/3485132)]
 
 ```
 @article{jiang2021survey
