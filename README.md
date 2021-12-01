@@ -175,7 +175,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   [MLGE] Multi-Laplacian GAN with Edge Enhancement for Face Super Resolution, S. Ko et al., ICPR 2021. 
 
--   [TANet] TANet: A new Paradigm for Global Face Super-resolution via Transformer-CNN Aggregation Network, Z. Wang et al., ARXIV 2021.[[PDF](https://arxiv.org/pdf/2109.08174.pdf)]
+-   [TANet] TANet: A new Paradigm for Global Face Super-resolution via Transformer-CNN Aggregation Network, Z. Wang et al., ArXiv 2021.[[PDF](https://arxiv.org/pdf/2109.08174.pdf)]
 
 -   Face Hallucination via Split-Attention in Split-Attention Network, T. Lu et al., ACMMM 2021. [[Web](https://paperswithcode.com/paper/face-hallucination-using-split-attention-in)]
 
@@ -327,37 +327,49 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -   [MFG-GAN] Joint Face Completion and Super-resolution using Multi-scale Feature Relation Learning, Z. Liu et al., ArXiv 2020.
 
 -   [Pro-UIGAN] Pro-UIGAN: Progressive Face Hallucination from Occluded Thumbnails, Y. Zhang et al., ArXiv 2021.
--   [JDSR-GAN] JDSR-GAN: Constructing A Joint and Collaborative Learning Network for Masked Face Super-Resolution, G. Gao et al., ARXIV 2021. [[Pdf](https://arxiv.org/pdf/2103.13676.pdf)]    
+
+-   [JDSR-GAN] JDSR-GAN: Constructing A Joint and Collaborative Learning Network for Masked Face Super-Resolution, G. Gao et al., ArXiv 2021. [[Pdf](https://arxiv.org/pdf/2103.13676.pdf)]    
 
 
 #### Joint Face Deblurring and Super-resolution 
 
 -   Learning to Super-Resolve Blurry Face and Text Images, X. Yu et al., ICCV 2017.
+
 -   Joint face hallucination and deblurring via structure generation and detail enhancement, Y. Song et al., IJCV 2019.
--   [DGFAN] Deblurring And Super-Resolution Using Deep Gated Fusion Attention Networks For Face Images, C. H. Yang et al., ICASSP 2020. 
+
+-   [DGFAN] Deblurring And Super-Resolution Using Deep Gated Fusion Attention Networks For Face Images, C. H. Yang et al., ICASSP 2020.
+     
 -   Super-resolving blurry face images with identity preservation, Y. Xu et al., PRL 2021.
 
 #### Joint Face Alignment and Super-resolution
 
--   [TDAE] Hallucinating very low-resolution unaligned and noisy face images, X. Yu et al., CVPR 2017. [[Web](https://github.com/XinYuANU)]    
+-   [TDAE] Hallucinating very low-resolution unaligned and noisy face images, X. Yu et al., CVPR 2017. [[Web](https://github.com/XinYuANU)]   
+   
 -   [TDN] Hallucinating very low-resolution unaligned and noisy face images by
     transformative discriminative autoencoders, X. Yu et al., AAAI 2017.[[Web](https://github.com/XinYuANU)]  
+    
 -   [MTDN] Hallucinating Unaligned Face Images by Multiscale Transformative Discriminative Networks, X. Yu et al., IJCV 2021.
 
 
 #### Joint Illumination Compensation and Super-resolution
 
 -   [SeLENet] SeLENet: A Semi-Supervised Low Light Face Enhancement Method for Mobile Face Unlock, H. A. Le et al., ICB 2019.
--  Learning To See Faces In The Dark，X. Ding et al., ICME 2020.
+
+-   Learning To See Faces In The Dark，X. Ding et al., ICME 2020.
+   
 -   [CPGAN] Copy and paste GAN: Face hallucination from shaded thumbnails, Y. Zhang et al., CVPR 2020.
+   
 -   Recursive Copy and Paste GAN: Face Hallucination from Shaded Thumbnails, Y. Zhang et al., TPAMI 2021.
+  
 -   Network Architecture Search for Face Enhancement, R. Yasarla et al., ArXiv 2021.
 
 
 #### Joint Face Fronlization and Super-resolution
 
 -   Can We See More? Joint Frontalization and Hallucination of Unaligned Tiny Faces, X. Yu et al. TPAMI 2019.
+  
 -   Face Hallucination With Finishing Touches, Y. Zhang et al., TIP 2021.
+  
 -   Joint Face Image Restoration and Frontalization for Recognition, X. Tu et al., TCSVT 2021.
 
 
@@ -366,10 +378,15 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 #### Face Video Super-resolution
 
 -   Face video super-resolution with identity guided generative adversarial networks, D. Li et al., CCCV 2017.
+   
 -   Super-resolution of Very Low-Resolution Faces from Videos, E. Ataer-Cansizoglu et al., BMVC 2018.
+  
 -   Video Face Super-Resolution with Motion-Adaptive Feedback Cell, J. Xin et al., AAAI 2020.
+   
 -   Self-Enhanced Convolutional Network for Facial Video Hallucination, C. Fang et al., TIP 2020.
+   
 -   VidFace: A Full-Transformer Solver for Video FaceHallucination with Unaligned Tiny Snapshots, Y. GAN et al., ArXiv 2021.
+  
 -   [MDVDNet] Multi-modality Deep Restoration of Extremely Compressed Face Videos, X. Zhang et al., ArXiv 2021.
 
 #### Old Photo Restoration
@@ -383,8 +400,11 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 #### 3D FSR
 
 -   Super-resolution of 3D face, G. Fan et al., ECCV 2006.
+   
 -   3D face hallucination from a single depth frame, L. Shu et al., 3DV 2014.
+   
 -   Robust 3D patch-based face hallucination, C. Qu et al., WACV 2017.
+   
 -   3D Face Point Cloud Super-Resolution Network, J. Li et al., IJCB 2021.
 
 #### Hyperspectral FSR
