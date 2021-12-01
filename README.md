@@ -326,7 +326,8 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   [MFG-GAN] Joint Face Completion and Super-resolution using Multi-scale Feature Relation Learning, Z. Liu et al., ArXiv 2020.
 
--   Pro-UIGAN: Progressive Face Hallucination from Occluded Thumbnails, Y. Zhang et al., ArXiv 2021.
+-   [Pro-UIGAN] Pro-UIGAN: Progressive Face Hallucination from Occluded Thumbnails, Y. Zhang et al., ArXiv 2021.
+-   [JDSR-GAN] JDSR-GAN: Constructing A Joint and Collaborative Learning Network for Masked Face Super-Resolution, G. Gao et al., ARXIV 2021. [[Pdf](https://arxiv.org/pdf/2103.13676.pdf)]    
 
 
 #### Joint Face Deblurring and Super-resolution 
