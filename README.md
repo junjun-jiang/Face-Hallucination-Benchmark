@@ -73,6 +73,8 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   Structured face hallucination, Y. Yang et al., CVPR 2013.[[Web](https://eng.ucmerced.edu/people/cyang35/CVPR13/CVPR13.html)]
 
+-   Identity-Preserving Pose-Robust Face Hallucination Through Face Subspace Prior, A. Abbasi et al., [[PDF](https://arxiv.org/pdf/2111.10634.pdf)]
+
 ### Classical Two-Step Methods
 
 -   A two-step approach to hallucinating faces: global parametric model and local nonparametric model, C. Liu et al., CVPR 2001.[[Web](https://people.csail.mit.edu/celiu/FaceHallucination/fh.html)]
@@ -170,6 +172,11 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -   E-ComSupResNet: Enhanced Face Super-Resolution Through Compact Network, E. Chudasama et al., TBIOM 2021.
 
 -   [MLGE] Multi-Laplacian GAN with Edge Enhancement for Face Super Resolution, S. Ko et al., ICPR 2021. 
+
+-   [TANet] TANet: A new Paradigm for Global Face Super-resolution via Transformer-CNN Aggregation Network, Z. Wang et al., ARXIV 2021.[[PDF](https://arxiv.org/pdf/2109.08174.pdf)]
+
+-   Face Hallucination via Split-Attention in Split-Attention Network, T. Lu et al., ACMMM 2021. [[Web](https://paperswithcode.com/paper/face-hallucination-using-split-attention-in)]
+
 
     
 ### Prior-guided FSR Methods
