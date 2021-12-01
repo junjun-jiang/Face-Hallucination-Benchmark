@@ -169,6 +169,8 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   [GPEN] GAN Prior Embedded Network for Blind Face Restoration in the Wild, T. Yang et al., CVPR 2021.
 
+-   Generative Facial Prior for Large-Factor Blind Face Super-Resolution, X Gua et al., ICAITA 2021. [[Pdf](https://iopscience.iop.org/article/10.1088/1742-6596/2078/1/012045/pdf)]
+
 -   E-ComSupResNet: Enhanced Face Super-Resolution Through Compact Network, E. Chudasama et al., TBIOM 2021.
 
 -   [MLGE] Multi-Laplacian GAN with Edge Enhancement for Face Super Resolution, S. Ko et al., ICPR 2021. 
