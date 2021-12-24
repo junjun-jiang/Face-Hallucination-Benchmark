@@ -179,6 +179,8 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   Face Hallucination via Split-Attention in Split-Attention Network, T. Lu et al., ACMMM 2021. [[Web](https://paperswithcode.com/paper/face-hallucination-using-split-attention-in)]
 
+-   [SelFSR] SelFSR: Self-Conditioned Face Super-Resolution in the Wild via Flow Field Degradation Network, X. Zeng et al., ArXiv 2021. [[PDF](https://arxiv.org/abs/2112.10683.pdf)]
+
 
     
 ### Prior-guided FSR Methods
