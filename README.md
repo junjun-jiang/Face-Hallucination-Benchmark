@@ -316,6 +316,8 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   [DFDNet] Blind Face Restoration via Deep Multi-scale Component Dictionaries, X. Li et al. ECCV 2020. [[Web](https://github.com/csxmli2016/DFDNet)]
 
+-   Gluing Reference Patches Together for Face Super-Resolution, J. Kim et al. IEEE Access 2021. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9663204)]
+
 ### Joint Tasks
 
 #### Joint Face Completion and Super-resolution
