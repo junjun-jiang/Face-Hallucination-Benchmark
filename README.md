@@ -181,6 +181,10 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   [SelFSR] SelFSR: Self-Conditioned Face Super-Resolution in the Wild via Flow Field Degradation Network, X. Zeng et al., ArXiv 2021. [[PDF](https://arxiv.org/abs/2112.10683.pdf)]
 
+-   [Panini-Net] Panini-Net: GAN Prior based Degradation-Aware Feature Interpolation for Face Restoration, Y. Wang et al., AAAI 2022.
+
+-   [GCFSR] GCFSR: a Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors, J. He et al., CVPR2022 [[PDF](https://arxiv.org/pdf/2203.07319.pdf)]
+
 
     
 ### Prior-guided FSR Methods
@@ -318,6 +322,8 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   Gluing Reference Patches Together for Face Super-Resolution, J. Kim et al. IEEE Access 2021. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9663204)]
 
+-   Semantic-Aware Latent Space Exploration for Face Image Restoration, Y. Guo, et al., ICME 2022. [[PDF](https://arxiv.org/pdf/2203.03005.pdf)]
+
 ### Joint Tasks
 
 #### Joint Face Completion and Super-resolution
@@ -417,6 +423,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 #### Cross-Domain Face Miniatures 
 -   [DAR-FSR]Super-Resolving Cross-Domain Face Miniatures by Peeking at One-Shot Exemplar, P, Li et al., ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Super-Resolving_Cross-Domain_Face_Miniatures_by_Peeking_at_One-Shot_Exemplar_ICCV_2021_paper.pdf)]
+-   
 
 ## Image Quality Measurement
 
