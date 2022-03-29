@@ -250,6 +250,8 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   Unsupervised face super-resolution via gradient enhancement and semantic guidance, L. Li et al., VC 2021.
 
+-   SemFSR: An Unsupervised Face SR with Semantic Features for Multiple Degradations, H. Qi et al., ICTAI2021.
+
     
 ### Attribute-constrained FSR Methods
 
