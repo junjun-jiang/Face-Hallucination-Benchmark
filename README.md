@@ -470,3 +470,5 @@ The last two databases are collected by myself.
 -   [VGGFace2](https://arxiv.org/abs/1710.08092)
 
 -   [CASIA-WebFace](http://www.cbsr.ia.ac.cn/english/CASIA-WebFace-Database.html)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=junjun-jiang/Face-Hallucination-Benchmark) Since 2022/5/7
