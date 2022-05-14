@@ -112,10 +112,6 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -   [Attention-FH] Attention-Aware Face Hallucination via Deep Reinforcement Learning, Q. Cao et al., CVPR 2017. [[PDF](https://arxiv.org/abs/1708.03132)][[Web](https://github.com/ykshi/facehallucination)]
 
 -   Super-resolution Reconstruction of Face Image Based on Convolution Network, W. Huang et al., AISC 2018.
-
--   [LRGAN] To learn image super-resolution, use a GAN to learn how to do image
-    degradation first, A.Bulat et al., ECCV 2018.
-    [[PDF](https://arxiv.org/abs/1807.11458)][[Web](https://github.com/jingyang2017/Face-and-Image-super-resolution)]
     
 -   A Noise Robust Face Hallucination Framework Via Cascaded Model of Deep Convolutional Networks and Manifold Learning, L. Han et al., ICME 2018
 
@@ -325,6 +321,13 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -   Gluing Reference Patches Together for Face Super-Resolution, J. Kim et al. IEEE Access 2021. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9663204)]
 
 -   Semantic-Aware Latent Space Exploration for Face Image Restoration, Y. Guo, et al., ICME 2022. [[PDF](https://arxiv.org/pdf/2203.03005.pdf)]
+
+### Real-World FSR Methods
+
+-   [LRGAN] To learn image super-resolution, use a GAN to learn how to do image
+    degradation first, A.Bulat et al., ECCV 2018.
+    [[PDF](https://arxiv.org/abs/1807.11458)][[Web](https://github.com/jingyang2017/Face-and-Image-super-resolution)]
+-   [SCGAN] Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution, Hao Hou et al., arXiv 2022. [[PDF](https://arxiv.org/pdf/2205.03777.pdf)][[Code](https://github.com/HaoHou-98/SCGAN)]
 
 ### Joint Tasks
 
