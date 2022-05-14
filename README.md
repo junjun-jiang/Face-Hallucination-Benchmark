@@ -423,7 +423,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 #### Hyperspectral FSR
 
--   [SSANet]Spectral Splitting and Aggregation Network for Hyperspectral Face Super-Resolution, J. Jiang et al., CVPR Workshops 2022. [[PDF](https://arxiv.org/abs/2108.13584)]
+-   [SSANet]From Less to More: Spectral Splitting and Aggregation Network for Hyperspectral Face Super-Resolution, J. Jiang et al., CVPR Workshops 2022. [[PDF](https://arxiv.org/abs/2108.13584)]
 
 #### Cross-Domain Face Miniatures 
 -   [DAR-FSR]Super-Resolving Cross-Domain Face Miniatures by Peeking at One-Shot Exemplar, P, Li et al., ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Super-Resolving_Cross-Domain_Face_Miniatures_by_Peeking_at_One-Shot_Exemplar_ICCV_2021_paper.pdf)]
@@ -470,5 +470,7 @@ The last two databases are collected by myself.
 -   [VGGFace2](https://arxiv.org/abs/1710.08092)
 
 -   [CASIA-WebFace](http://www.cbsr.ia.ac.cn/english/CASIA-WebFace-Database.html)
+
+-   [VFHQ](https://liangbinxie.github.io/projects/vfhq), A High-Quality Dataset and Benchmark for Video Face Super Resolution
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=junjun-jiang/Face-Hallucination-Benchmark) Since 2022/5/7
