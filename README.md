@@ -379,7 +379,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -   Recursive Copy and Paste GAN: Face Hallucination from Shaded Thumbnails, Y. Zhang et al., TPAMI 2021.
   
 -   Network Architecture Search for Face Enhancement, R. Yasarla et al., ArXiv 2021.
--  
+
 -   Deep Illumination-Enhanced Face Super-Resolution Network for Low-Light Images, K. Guo et al., ACM Trans. Multimedia Comput. Commun. Appl. 2022. [[Web](https://dl.acm.org/doi/full/10.1145/3495258)]
 
 
