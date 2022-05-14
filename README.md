@@ -476,7 +476,7 @@ The last two databases are collected by myself.
 
 -   [CASIA-WebFace](http://www.cbsr.ia.ac.cn/english/CASIA-WebFace-Database.html)
 
--   [WebFace260M](https://www.face-benchmark.org/index.html)
+-   [WebFace260M](https://www.face-benchmark.org/index.html) is a new million-scale face benchmark, which is constructed for the research community towards closing the data gap behind the industry.
 
 -   [VFHQ](https://liangbinxie.github.io/projects/vfhq), A High-Quality Dataset and Benchmark for Video Face Super Resolution
 
