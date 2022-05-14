@@ -476,6 +476,8 @@ The last two databases are collected by myself.
 
 -   [CASIA-WebFace](http://www.cbsr.ia.ac.cn/english/CASIA-WebFace-Database.html)
 
+-   [WebFace260M](https://www.face-benchmark.org/index.html)
+
 -   [VFHQ](https://liangbinxie.github.io/projects/vfhq), A High-Quality Dataset and Benchmark for Video Face Super Resolution
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=junjun-jiang/Face-Hallucination-Benchmark) Since 2022/5/7
