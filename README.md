@@ -157,8 +157,6 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   [DPDFN] Dual-path deep fusion network for face image hallucination, K. Jiang, TMM 2020.
 
--   Real-World Super-Resolution of Face-Images from Surveillance Cameras, A. Aakerberg et al., ArXiv 2021.
-
 -   GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution, K. C. K. Chan et al., CVPR 2021.
 
 -   [GFP-GAN] Towards Real-World Blind Face Restoration with Generative Facial Prior, X. Wang et al., CVPR 2021.
@@ -199,10 +197,6 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   [FSRNet] FSRNet: End-to-End learning face super-resolution with facial
     priors, Y. Chen et al., CVPR 2018. [[PDF](https://arxiv.org/abs/1711.10703)][[Web](https://github.com/tyshiwo/FSRNet)]
-
--   Super-FAN: integrated facial landmark localization and super-resolution of
-    real-world low resolution faces in arbitrary poses with GANs
-    A. Bulat et al., CVPR 2018. [[PDF](https://arxiv.org/abs/1712.02765)][[Web](https://github.com/1adrianb)]
 
 -   [FSRGFCH] Face super-resolution guided by facial component heatmaps, ECCV 2018, X. Yu
     et al.
@@ -327,7 +321,15 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -   [LRGAN] To learn image super-resolution, use a GAN to learn how to do image
     degradation first, A.Bulat et al., ECCV 2018.
     [[PDF](https://arxiv.org/abs/1807.11458)][[Web](https://github.com/jingyang2017/Face-and-Image-super-resolution)]
+    
+-   Super-FAN: integrated facial landmark localization and super-resolution of
+    real-world low resolution faces in arbitrary poses with GANs
+    A. Bulat et al., CVPR 2018. [[PDF](https://arxiv.org/abs/1712.02765)][[Web](https://github.com/1adrianb)]
+    
+-   Real-World Super-Resolution of Face-Images from Surveillance Cameras, A. Aakerberg et al., ArXiv 2021.
+    
 -   [SCGAN] Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution, Hao Hou et al., arXiv 2022. [[PDF](https://arxiv.org/pdf/2205.03777.pdf)][[Code](https://github.com/HaoHou-98/SCGAN)]
+
 
 ### Joint Tasks
 
@@ -430,7 +432,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 #### Cross-Domain Face Miniatures 
 -   [DAR-FSR]Super-Resolving Cross-Domain Face Miniatures by Peeking at One-Shot Exemplar, P, Li et al., ICCV 2021. [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Super-Resolving_Cross-Domain_Face_Miniatures_by_Peeking_at_One-Shot_Exemplar_ICCV_2021_paper.pdf)]
--   
+   
 
 ## Image Quality Measurement
 
