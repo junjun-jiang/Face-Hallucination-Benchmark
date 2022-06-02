@@ -174,10 +174,17 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -   Face Hallucination via Split-Attention in Split-Attention Network, T. Lu et al., ACMMM 2021. [[Web](https://paperswithcode.com/paper/face-hallucination-using-split-attention-in)]
 
 -   [SelFSR] SelFSR: Self-Conditioned Face Super-Resolution in the Wild via Flow Field Degradation Network, X. Zeng et al., ArXiv 2021. [[PDF](https://arxiv.org/abs/2112.10683.pdf)]
+  
+-  [FRGAN] FRGAN: A Blind Face Restoration with Generative Adversarial Networks, T. Wei et al., MPE 2021 [[PDF](https://www.hindawi.com/journals/mpe/2021/2384435/)]
 
 -   [Panini-Net] Panini-Net: GAN Prior based Degradation-Aware Feature Interpolation for Face Restoration, Y. Wang et al., AAAI 2022.
 
 -   [GCFSR] GCFSR: a Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors, J. He et al., CVPR2022 [[PDF](https://arxiv.org/pdf/2203.07319.pdf)]
+
+-  [VQFR] VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder, Y. Gu et al., Arxiv 2022 [[PDF](https://arxiv.org/abs/2205.06803)]
+
+-  Rethinking Deep Face Restoration, CVPR 2022
+
 
 
     
@@ -240,7 +247,13 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   Unsupervised face super-resolution via gradient enhancement and semantic guidance, L. Li et al., VC 2021.
 
--   SemFSR: An Unsupervised Face SR with Semantic Features for Multiple Degradations, H. Qi et al., ICTAI2021.
+-   SemFSR: An Unsupervised Face SR with Semantic Features for Multiple Degradations, H. Qi et al., ICTAI 2021.
+
+-   Face Restoration via Plug-and-Play 3D Facial Priors, X. Hu et al., TPAMI 2021, [[PDF](https://ieeexplore.ieee.org/abstract/document/9591403)]
+
+-   Blind Face Restoration via Multi-Prior Collaboration and Adaptive Feature Fusion, Z. Teng et al., FNBOT 2022 [[Web](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8855655/)]
+
+-   Blind Face Restoration via Integrating Face Shape and Generative Priors, F. Zhu et al., CVPR 2022
 
     
 ### Attribute-constrained FSR Methods
@@ -315,6 +328,8 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -   Gluing Reference Patches Together for Face Super-Resolution, J. Kim et al. IEEE Access 2021. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9663204)]
 
 -   Semantic-Aware Latent Space Exploration for Face Image Restoration, Y. Guo, et al., ICME 2022. [[PDF](https://arxiv.org/pdf/2203.03005.pdf)]
+
+-   [RestoreFormer] RestoreFormer: High-Quality Blind Face Restoration from Undegraded Key-Value Pairs, Z. Wang et al., CVPR 2022 [[PDF](https://arxiv.org/pdf/2201.06374.pdf)]
 
 ### Real-World FSR Methods
 
