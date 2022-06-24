@@ -181,9 +181,6 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   [GCFSR] GCFSR: a Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors, J. He et al., CVPR2022 [[PDF](https://arxiv.org/pdf/2203.07319.pdf)]
 
--  [VQFR] VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder, Y. Gu et al., Arxiv 2022 [[PDF](https://arxiv.org/abs/2205.06803)]
-
--  Rethinking Deep Face Restoration, CVPR 2022
 
 
 
@@ -337,7 +334,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   Rethinking Deep Face Restoration, Y. Zhao et al., CVPR 2022 [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Rethinking_Deep_Face_Restoration_CVPR_2022_paper.pdf)]
 
--   [VQFR] VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder， Y. Gu et al., ARXIV 2022
+-   [VQFR] VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder， Y. Gu et al., ARXIV 2022. [[PDF](https://arxiv.org/abs/2205.06803)]
 
 ### Real-World FSR Methods
 
