@@ -253,7 +253,9 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   Blind Face Restoration via Multi-Prior Collaboration and Adaptive Feature Fusion, Z. Teng et al., FNBOT 2022 [[Web](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8855655/)]
 
--   Blind Face Restoration via Integrating Face Shape and Generative Priors, F. Zhu et al., CVPR 2022
+-   Blind Face Restoration via Integrating Face Shape and Generative Priors, F. Zhu et al., CVPR 2022.
+
+-   Propagating Facial Prior Knowledge for Multi-Task Learning in Face Super-Resolution, C. Wang et al., TCSVT 2022. [[Code](https://github.com/wcy-cs/KDFSRNet)]
 
     
 ### Attribute-constrained FSR Methods
@@ -310,6 +312,8 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   Edge and identity preserving network for face super-resolution, J. Kim et al., Neurocomputing 2021.
 
+-   Super-resolution of very low-resolution face images with a wavelet integrated, identity preserving, adversarial network， H. Dastmalchi, et al., Signal Processing: Image Communication 2022. [[Code](https://github.com/hrd-yorku/WIPA-Face-Super-Resolution)]
+
 
 ### Reference FSR Methods
 
@@ -330,6 +334,10 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -   Semantic-Aware Latent Space Exploration for Face Image Restoration, Y. Guo, et al., ICME 2022. [[PDF](https://arxiv.org/pdf/2203.03005.pdf)]
 
 -   [RestoreFormer] RestoreFormer: High-Quality Blind Face Restoration from Undegraded Key-Value Pairs, Z. Wang et al., CVPR 2022 [[PDF](https://arxiv.org/pdf/2201.06374.pdf)]
+
+-   Rethinking Deep Face Restoration, Y. Zhao et al., CVPR 2022 [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Rethinking_Deep_Face_Restoration_CVPR_2022_paper.pdf)]
+
+-   [VQFR] VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder， Y. Gu et al., ARXIV 2022
 
 ### Real-World FSR Methods
 
