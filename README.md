@@ -18,7 +18,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 *Some classical algorithms (including NE, LSR, SR, LcR, LINE, TLcR-RL, and EigTran) implemented by myself can be found [here](https://github.com/junjun-jiang/TLcR-RL).
 
-*As for deep learning-based methods, we provide the training sets, and the experimental results of several state-of-the-art methods in  [[Baidu Drive](https://pan.baidu.com/s/1ox742-xGn6q3_YyttwbB9w)](va2i).  Note that the partition of the dataset follows [[DIC](https://github.com/Maclory/Deep-Iterative-Collaboration)]. The eval_psnr_ssim.py and calc_lpips.py are built on [[DIC](https://github.com/Maclory/Deep-Iterative-Collaboration)] and [[LPIPS](https://github.com/richzhang/PerceptualSimilarity)]. We thank the authors for sharing their codes. 
+*As for deep learning-based methods, we provide the training sets, and the experimental results of several state-of-the-art methods in  [[Baidu Drive](https://pan.baidu.com/s/1ox742-xGn6q3_YyttwbB9w)](va2i) and [[Google Drive](https://drive.google.com/drive/folders/1x7IzcADwPWlM4FJgYb4HargPzkB4ktsK?usp=sharing)].  Note that the partition of the dataset follows [[DIC](https://github.com/Maclory/Deep-Iterative-Collaboration)]. The eval_psnr_ssim.py and calc_lpips.py are built on [[DIC](https://github.com/Maclory/Deep-Iterative-Collaboration)] and [[LPIPS](https://github.com/richzhang/PerceptualSimilarity)]. We thank the authors for sharing their codes. 
 
 ## Classical Methods
 
