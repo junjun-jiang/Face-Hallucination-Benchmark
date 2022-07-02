@@ -181,8 +181,9 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   [GCFSR] GCFSR: a Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors, J. He et al., CVPR2022 [[PDF](https://arxiv.org/pdf/2203.07319.pdf)]
 
+-   [EDFace-Celeb-1M] EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset, K. Zhang et al., TPAMI 2022 [[Web](https://github.com/HDCVLab/EDFace-Celeb-1M)] [[PDF](https://arxiv.org/abs/2110.05031)]
 
-
+-   Blind Face Restoration: Benchmark Datasets and a Baseline Model, P. Zhang et al., ArXiv 2022. [[Web](https://github.com/bitzpy/Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model)] [[PDF](https://arxiv.org/abs/2206.03697)]
 
     
 ### Prior-guided FSR Methods
@@ -253,6 +254,8 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -   Blind Face Restoration via Integrating Face Shape and Generative Priors, F. Zhu et al., CVPR 2022.
 
 -   Propagating Facial Prior Knowledge for Multi-Task Learning in Face Super-Resolution, C. Wang et al., TCSVT 2022. [[Code](https://github.com/wcy-cs/KDFSRNet)]
+
+-   Multi-Prior Learning via Neural Architecture Search for Blind Face Restoration, Y. Yu et al., ArXiv 2022. [[Web](https://github.com/YYJ1anG/MFPSNet)] [[PDF](https://arxiv.org/abs/2206.13962)]
 
     
 ### Attribute-constrained FSR Methods
@@ -499,5 +502,7 @@ The last two databases are collected by myself.
 -   [WebFace260M](https://www.face-benchmark.org/index.html) is a new million-scale face benchmark, which is constructed for the research community towards closing the data gap behind the industry.
 
 -   [VFHQ](https://liangbinxie.github.io/projects/vfhq), A High-Quality Dataset and Benchmark for Video Face Super Resolution
+
+-   [EDFACE-Celeb](https://github.com/HDCVLab/EDFace-Celeb-1M) is a new million-scale dataset, which consists of two sub-datasets (i.e., EDFACE-Celeb-1M and EDFACE-Celeb-150K) for face super-resolution and blind face restoration
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=junjun-jiang/Face-Hallucination-Benchmark) Since 2022/5/7
