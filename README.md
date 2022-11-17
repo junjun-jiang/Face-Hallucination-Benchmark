@@ -254,6 +254,9 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   Propagating Facial Prior Knowledge for Multi-Task Learning in Face Super-Resolution, C. Wang et al., TCSVT 2022. [[Code](https://github.com/wcy-cs/KDFSRNet)]
 
+-   Face Super-Resolution with Progressive Embedding of Multi-scale Face Priors, C. Zhang et al., IJCB 2022. [[PDF](https://arxiv.org/abs/2210.06002)]
+
+-   Rethinking Prior-Guided Face Super-Resolution: A New Paradigm With Facial Component Prior, T. Lu, et al, TNNLS 2022 [[PDF](https://pubmed.ncbi.nlm.nih.gov/36054383/)]
     
 ### Attribute-constrained FSR Methods
 
@@ -311,6 +314,8 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   Super-resolution of very low-resolution face images with a wavelet integrated, identity preserving, adversarial network， H. Dastmalchi, et al., Signal Processing: Image Communication 2022. [[Code](https://github.com/hrd-yorku/WIPA-Face-Super-Resolution)]
 
+-   Distilling Resolution-robust Identity Knowledge for Texture-Enhanced Face Hallucination, Q, Bao, et al., ACM MM 2022. [[PDF](https://dl.acm.org/doi/10.1145/3503161.3548437)]
+
 
 ### Reference FSR Methods
 
@@ -334,7 +339,9 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   Rethinking Deep Face Restoration, Y. Zhao et al., CVPR 2022 [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Rethinking_Deep_Face_Restoration_CVPR_2022_paper.pdf)]
 
--   [VQFR] VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder， Y. Gu et al., ARXIV 2022. [[PDF](https://arxiv.org/abs/2205.06803)]
+-   [VQFR] VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder，Y. Gu et al., ARXIV 2022. [[PDF](https://arxiv.org/abs/2205.06803)]
+
+-   Learning Dual Memory Dictionaries for Blind Face Restoration，X. Li, et al., TPAMI 2022. [[PDF]()]
 
 ### Real-World FSR Methods
 
@@ -366,6 +373,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -   [Pro-UIGAN] Pro-UIGAN: Progressive Face Hallucination from Occluded Thumbnails, Y. Zhang et al., ArXiv 2021.
 
 -   [JDSR-GAN] JDSR-GAN: Constructing A Joint and Collaborative Learning Network for Masked Face Super-Resolution, G. Gao et al., ArXiv 2021. [[Pdf](https://arxiv.org/pdf/2103.13676.pdf)]    
+
 
 
 #### Joint Face Deblurring and Super-resolution 
