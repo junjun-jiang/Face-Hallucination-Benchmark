@@ -32,6 +32,8 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -   Implicit Diffusion Models for Continuous Super-Resolution, S. Gao et al., CVPR 2023. [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Implicit_Diffusion_Models_for_Continuous_Super-Resolution_CVPR_2023_paper.pdf)]
 
 -   DifFace: Blind Face Restoration with Diffused Error Contraction, Z. Yue et al., ARXIV 2023. [[PDF](https://arxiv.org/abs/2212.06512)]
+
+-   Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond, Y. Zhao et al., ICCV 2023. [[PDF](https://openaccess.thecvf.com/content/ICCV2023/html/Zhao_Towards_Authentic_Face_Restoration_with_Iterative_Diffusion_Models_and_Beyond_ICCV_2023_paper.html)]
 -   
 ### General FSR Methods
 
