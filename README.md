@@ -127,7 +127,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   [SelFSR] SelFSR: Self-Conditioned Face Super-Resolution in the Wild via Flow Field Degradation Network, X. Zeng et al., ArXiv 2021. [[PDF](https://arxiv.org/abs/2112.10683.pdf)]
   
--  [FRGAN] FRGAN: A Blind Face Restoration with Generative Adversarial Networks, T. Wei et al., MPE 2021 [[PDF](https://www.hindawi.com/journals/mpe/2021/2384435/)]
+-   [FRGAN] FRGAN: A Blind Face Restoration with Generative Adversarial Networks, T. Wei et al., MPE 2021 [[PDF](https://www.hindawi.com/journals/mpe/2021/2384435/)]
 
 -   [Panini-Net] Panini-Net: GAN Prior based Degradation-Aware Feature Interpolation for Face Restoration, Y. Wang et al., AAAI 2022.
 
@@ -135,8 +135,9 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   [SFMNet] Spatial-Frequency Mutual Learning for Face Super-Resolution, C. Wang et al., CVPR2023 [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Spatial-Frequency_Mutual_Learning_for_Face_Super-Resolution_CVPR_2023_paper.pdf)] [Our Work]
 
+-   Blind Face Restoration: Benchmark Datasets and a Baseline Model, P. Zhang et al., ArXiv 2022. [[Web](https://github.com/bitzpy/Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model)] [[PDF](https://arxiv.org/abs/2206.03697)]
 
-    
+-  [EDFace-Celeb-1M] EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset, K. Zhang et al., TPAMI 2022 [[Web](https://github.com/HDCVLab/EDFace-Celeb-1M)] [[PDF](https://arxiv.org/abs/2110.05031)] 
 ### Prior-guided FSR Methods
 
 -   [CBN] Deep cascaded bi-network for face hallucination, S. Zhu et
@@ -511,6 +512,8 @@ The last two databases are collected by myself.
 
 ### Largescale databases
 
+-   [EDFace-Celeb-1M] [[Web](https://github.com/HDCVLab/EDFace-Celeb-1M)]
+  
 -   [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
 -   [Helen](http://www.ifp.illinois.edu/~vuongle2/helen/)
