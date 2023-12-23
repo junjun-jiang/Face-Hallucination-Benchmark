@@ -20,71 +20,19 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 *As for deep learning-based methods, we provide the training sets, and the experimental results of several state-of-the-art methods in  [[Baidu Drive](https://pan.baidu.com/s/1ox742-xGn6q3_YyttwbB9w)](va2i) and [[Google Drive](https://drive.google.com/drive/folders/1x7IzcADwPWlM4FJgYb4HargPzkB4ktsK?usp=sharing)].  Note that the partition of the dataset follows [[DIC](https://github.com/Maclory/Deep-Iterative-Collaboration)]. The eval_psnr_ssim.py and calc_lpips.py are built on [[DIC](https://github.com/Maclory/Deep-Iterative-Collaboration)] and [[LPIPS](https://github.com/richzhang/PerceptualSimilarity)]. We thank the authors for sharing their codes. 
 
-## Classical Methods
-
-
-### Classical Patch-based Methods
-
--   Hallucinating face, S. Baker and T. Kanade, FG 2000.
-    [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=840616)]
-
--   [NE] Super-resolution through neighbor embedding, Chang et al. CVPR 2004.
-    [[Web](https://github.com/junjun-jiang/TLcR-RL)]
-
--   [LSR] Hallucinating face by position-patch, Ma et al., PR 2010.
-    [[Web](https://github.com/junjun-jiang/TLcR-RL)]
-
--   [SR] Position-patch based face hallucination using convex optimization, C. Jung et al., SPL 2010. [[Web](https://github.com/junjun-jiang/TLcR-RL)]
-
--   [LcR] Noise robust face hallucination via locality-constrained representation, J. Jiang et al., TMM 2014.[[Web](https://github.com/junjun-jiang)]
-
--   [LINE] Multilayer Locality-Constrained Iterative Neighbor Embedding, J. Jiang et al., TIP 2014. [[Web](https://github.com/junjun-jiang)]
-
--   Face Hallucination Using Linear Models of Coupled Sparse Support, R. A. Farrugia et al., TIP 2017.[[PDF](https://ieeexplore.ieee.org/document/7953547/)][[Web](https://www.um.edu.mt/staff/reuben.farrugia)]
-
--   Hallucinating Face Image by Regularization Models in High-Resolution Feature Space, J. Shi et al., TIP 2018.
-    [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8310603)]
-    
--   [TLcR-RL] Context-Patch based Face Hallucination via Thresholding Locality-Constrained Representation and Reproducing Learning, J. Jiang et al., TCYB 2018. [[PDF]](https://arxiv.org/abs/1809.00665)[[Web](https://github.com/junjun-jiang/TLcR-RL)]
-
--   Face Hallucination via Coarse-to-Fine Recursive Kernel Regression Structure, J. Shi et al. TMM 2019.
-
--   Robust Face Image Super-Resolution via Joint Learning of Subdivided Contextual Model, L. Chen et al. TIP 2019. [[PDF](https://ieeexplore.ieee.org/abstract/document/8733990)]
-
--   SSR2: Sparse signal recovery for single-image super-resolution on faces with extreme low resolutions, R. Abiantun et al. PR 2019. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300597)]
-
--   Robust face hallucination via locality-constrained multiscale coding, L. Liu et al., INS 2020.
-
--   Face hallucination via multiple feature learning with hierarchical structure, L. Liu et al., INS 2020.
-
--   Hallucinating Color Face Image by Learning Graph Representation in Quaternion Space, L. Liu et al., TCYB 2021.
-
-
-
-### Classical Global Face Methods
-
--   [EigTran] Hallucinating face by eigentransformation, X. Wang et al., TSMC-C 2005 [[Web](https://github.com/junjun-jiang/TLcR-RL)]
-
--   Super-resolution of face images using kernel PCA-based prior, A. Chakrabarti et al., TMM 2007. [[PDF](http://ieeexplore.ieee.org/document/4202583/)]
-
--   A Bayesian Approach to Alignment-Based Image Hallucination, C. Liu et al., ECCV 2012.[[PDF](https://people.csail.mit.edu/celiu/pdfs/ECCV12-ImageHallucination.pdf)]
-
--   A convex approach for image hallucination, P. Innerhofer et al., AAPRW 2013.[[Code](http://www.escience.cn/system/file?fileId=88901)]
-
--   Structured face hallucination, Y. Yang et al., CVPR 2013.[[Web](https://eng.ucmerced.edu/people/cyang35/CVPR13/CVPR13.html)]
-
--   Identity-Preserving Pose-Robust Face Hallucination Through Face Subspace Prior, A. Abbasi et al., [[PDF](https://arxiv.org/pdf/2111.10634.pdf)]
-
-### Classical Two-Step Methods
-
--   A two-step approach to hallucinating faces: global parametric model and local nonparametric model, C. Liu et al., CVPR 2001.[[Web](https://people.csail.mit.edu/celiu/FaceHallucination/fh.html)]
-
--   Hallucinating faces: LPH super-resolution and neighbor reconstruction for residue compensation, Y. Zhuang et al., PR 2007.[[PDF](https://www.sciencedirect.com/science/article/pii/S0031320307001355)]
-
--   [CCA] Super-resolution of human face image using canonical correlation analysis, H. Huang et al., PR 2010.[[PDF](https://www.sciencedirect.com/science/article/pii/S0031320310000853)]
 
 ## Deep learning-based Methods
 
+### Diffusion Based Methods
+
+-   [DR2] DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration, Z. Wang et al., CVPR 2023. [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_DR2_Diffusion-Based_Robust_Degradation_Remover_for_Blind_Face_Restoration_CVPR_2023_paper.pdf)]
+
+-   [PGDiff] PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance, P. Yang et al., NIPS 2023 [[PDF](https://arxiv.org/abs/2309.10810)]
+
+-   Implicit Diffusion Models for Continuous Super-Resolution, S. Gao et al., CVPR 2023. [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Implicit_Diffusion_Models_for_Continuous_Super-Resolution_CVPR_2023_paper.pdf)]
+
+-   DifFace: Blind Face Restoration with Diffused Error Contraction, Z. Yue et al., ARXIV 2023. [[PDF](https://arxiv.org/abs/2212.06512)]
+-   
 ### General FSR Methods
 
 -   [BCCNN] Learning Face Hallucination in the Wild, E. Zhou et al., AAAI 2015.
@@ -159,11 +107,13 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution, K. C. K. Chan et al., CVPR 2021.
 
+-   GLEAN: Generative Latent Bank for Image Super-Resolution and Beyond, K. C. K. Chan et al., TPAMI 2022 [[PDF](https://arxiv.org/abs/2207.14812)]
+
 -   [GFP-GAN] Towards Real-World Blind Face Restoration with Generative Facial Prior, X. Wang et al., CVPR 2021.
 
 -   [GPEN] GAN Prior Embedded Network for Blind Face Restoration in the Wild, T. Yang et al., CVPR 2021.
 
--   Generative Facial Prior for Large-Factor Blind Face Super-Resolution, X Gua et al., ICAITA 2021. [[Pdf](https://iopscience.iop.org/article/10.1088/1742-6596/2078/1/012045/pdf)]
+-   Generative Facial Prior for Large-Factor Blind Face Super-Resolution, X Gua et al., ICAITA 2021. [[PDF](https://iopscience.iop.org/article/10.1088/1742-6596/2078/1/012045/pdf)]
 
 -   E-ComSupResNet: Enhanced Face Super-Resolution Through Compact Network, E. Chudasama et al., TBIOM 2021.
 
@@ -181,7 +131,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   [GCFSR] GCFSR: a Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors, J. He et al., CVPR2022 [[PDF](https://arxiv.org/pdf/2203.07319.pdf)]
 
-
+-   [SFMNet] Spatial-Frequency Mutual Learning for Face Super-Resolution, C. Wang et al., CVPR2023 [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Spatial-Frequency_Mutual_Learning_for_Face_Super-Resolution_CVPR_2023_paper.pdf)]
 
 
     
@@ -252,12 +202,15 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   Blind Face Restoration via Integrating Face Shape and Generative Priors, F. Zhu et al., CVPR 2022.
 
--   Propagating Facial Prior Knowledge for Multi-Task Learning in Face Super-Resolution, C. Wang et al., TCSVT 2022. [[Code](https://github.com/wcy-cs/KDFSRNet)]
+-   Propagating Facial Prior Knowledge for Multi-Task Learning in Face Super-Resolution, C. Wang et al., TCSVT 2022. [[Code](https://github.com/wcy-cs/KDFSRNet)][Ours]
 
 -   Face Super-Resolution with Progressive Embedding of Multi-scale Face Priors, C. Zhang et al., IJCB 2022. [[PDF](https://arxiv.org/abs/2210.06002)]
 
 -   Rethinking Prior-Guided Face Super-Resolution: A New Paradigm With Facial Component Prior, T. Lu, et al, TNNLS 2022 [[PDF](https://pubmed.ncbi.nlm.nih.gov/36054383/)]
-    
+
+-   Super-Resolving Face Image by Facial Parsing Information, C. Wang, et al., TBIOM 2023 [[PDF](https://ieeexplore.ieee.org/abstract/document/10090424)]
+
+- 
 ### Attribute-constrained FSR Methods
 
 -   [FaceAttr] Super-resolving very low-resolution face images with
@@ -315,8 +268,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -   Super-resolution of very low-resolution face images with a wavelet integrated, identity preserving, adversarial network， H. Dastmalchi, et al., Signal Processing: Image Communication 2022. [[Code](https://github.com/hrd-yorku/WIPA-Face-Super-Resolution)]
 
 -   Distilling Resolution-robust Identity Knowledge for Texture-Enhanced Face Hallucination, Q, Bao, et al., ACM MM 2022. [[PDF](https://dl.acm.org/doi/10.1145/3503161.3548437)]
-
-
+-   
 ### Reference FSR Methods
 
 -   [GFRNet] Learning Warped Guidance for Blind Face Restoration, X. Li et al., ECCV 2019.
@@ -337,11 +289,15 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   [RestoreFormer] RestoreFormer: High-Quality Blind Face Restoration from Undegraded Key-Value Pairs, Z. Wang et al., CVPR 2022 [[PDF](https://arxiv.org/pdf/2201.06374.pdf)]
 
+-   [RestoreFormer++] RestoreFormer++: Towards Real-World Blind Face Restoration from Undegraded Key-Value Pairs, Z. Wang et al., TPAMI 2023 [[PDF](https://arxiv.org/abs/2308.07228)]
+
 -   Rethinking Deep Face Restoration, Y. Zhao et al., CVPR 2022 [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Rethinking_Deep_Face_Restoration_CVPR_2022_paper.pdf)]
 
--   [VQFR] VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder，Y. Gu et al., ARXIV 2022. [[PDF](https://arxiv.org/abs/2205.06803)]
+-   [VQFR] VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder，Y. Gu et al., ECCV 2022. [[PDF](https://arxiv.org/abs/2205.06803)]
 
--   Learning Dual Memory Dictionaries for Blind Face Restoration，X. Li, et al., TPAMI 2022. [[PDF]()]
+-   Towards Robust Blind Face Restoration with Codebook Lookup Transforme, S. Zhou et al., NIPS 2022. [[PDF](https://arxiv.org/abs/2206.11253)]
+
+-   Learning Dual Memory Dictionaries for Blind Face Restoration，X. Li, et al., TPAMI 2022. [[PDF](https://arxiv.org/abs/2210.08160)]
 
 ### Real-World FSR Methods
 
@@ -355,8 +311,71 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
     
 -   Real-World Super-Resolution of Face-Images from Surveillance Cameras, A. Aakerberg et al., ArXiv 2021.
     
--   [SCGAN] Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution, Hao Hou et al., arXiv 2022. [[PDF](https://arxiv.org/pdf/2205.03777.pdf)][[Code](https://github.com/HaoHou-98/SCGAN)]
+-   [SCGAN] Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution, H. Hou et al., TIP 2023. [[PDF](https://arxiv.org/pdf/2205.03777.pdf)][[Code](https://github.com/HaoHou-98/SCGAN)]
 
+
+## Classical Methods
+
+
+### Classical Patch-based Methods
+
+-   Hallucinating face, S. Baker and T. Kanade, FG 2000.
+    [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=840616)]
+
+-   [NE] Super-resolution through neighbor embedding, Chang et al. CVPR 2004.
+    [[Web](https://github.com/junjun-jiang/TLcR-RL)]
+
+-   [LSR] Hallucinating face by position-patch, Ma et al., PR 2010.
+    [[Web](https://github.com/junjun-jiang/TLcR-RL)]
+
+-   [SR] Position-patch based face hallucination using convex optimization, C. Jung et al., SPL 2010. [[Web](https://github.com/junjun-jiang/TLcR-RL)]
+
+-   [LcR] Noise robust face hallucination via locality-constrained representation, J. Jiang et al., TMM 2014.[[Web](https://github.com/junjun-jiang)]
+
+-   [LINE] Multilayer Locality-Constrained Iterative Neighbor Embedding, J. Jiang et al., TIP 2014. [[Web](https://github.com/junjun-jiang)]
+
+-   Face Hallucination Using Linear Models of Coupled Sparse Support, R. A. Farrugia et al., TIP 2017.[[PDF](https://ieeexplore.ieee.org/document/7953547/)][[Web](https://www.um.edu.mt/staff/reuben.farrugia)]
+
+-   Hallucinating Face Image by Regularization Models in High-Resolution Feature Space, J. Shi et al., TIP 2018.
+    [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8310603)]
+    
+-   [TLcR-RL] Context-Patch based Face Hallucination via Thresholding Locality-Constrained Representation and Reproducing Learning, J. Jiang et al., TCYB 2018. [[PDF]](https://arxiv.org/abs/1809.00665)[[Web](https://github.com/junjun-jiang/TLcR-RL)]
+
+-   Face Hallucination via Coarse-to-Fine Recursive Kernel Regression Structure, J. Shi et al. TMM 2019.
+
+-   Robust Face Image Super-Resolution via Joint Learning of Subdivided Contextual Model, L. Chen et al. TIP 2019. [[PDF](https://ieeexplore.ieee.org/abstract/document/8733990)]
+
+-   SSR2: Sparse signal recovery for single-image super-resolution on faces with extreme low resolutions, R. Abiantun et al. PR 2019. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300597)]
+
+-   Robust face hallucination via locality-constrained multiscale coding, L. Liu et al., INS 2020.
+
+-   Face hallucination via multiple feature learning with hierarchical structure, L. Liu et al., INS 2020.
+
+-   Hallucinating Color Face Image by Learning Graph Representation in Quaternion Space, L. Liu et al., TCYB 2021.
+
+
+
+### Classical Global Face Methods
+
+-   [EigTran] Hallucinating face by eigentransformation, X. Wang et al., TSMC-C 2005 [[Web](https://github.com/junjun-jiang/TLcR-RL)]
+
+-   Super-resolution of face images using kernel PCA-based prior, A. Chakrabarti et al., TMM 2007. [[PDF](http://ieeexplore.ieee.org/document/4202583/)]
+
+-   A Bayesian Approach to Alignment-Based Image Hallucination, C. Liu et al., ECCV 2012.[[PDF](https://people.csail.mit.edu/celiu/pdfs/ECCV12-ImageHallucination.pdf)]
+
+-   A convex approach for image hallucination, P. Innerhofer et al., AAPRW 2013.[[Code](http://www.escience.cn/system/file?fileId=88901)]
+
+-   Structured face hallucination, Y. Yang et al., CVPR 2013.[[Web](https://eng.ucmerced.edu/people/cyang35/CVPR13/CVPR13.html)]
+
+-   Identity-Preserving Pose-Robust Face Hallucination Through Face Subspace Prior, A. Abbasi et al., [[PDF](https://arxiv.org/pdf/2111.10634.pdf)]
+
+### Classical Two-Step Methods
+
+-   A two-step approach to hallucinating faces: global parametric model and local nonparametric model, C. Liu et al., CVPR 2001.[[Web](https://people.csail.mit.edu/celiu/FaceHallucination/fh.html)]
+
+-   Hallucinating faces: LPH super-resolution and neighbor reconstruction for residue compensation, Y. Zhuang et al., PR 2007.[[PDF](https://www.sciencedirect.com/science/article/pii/S0031320307001355)]
+
+-   [CCA] Super-resolution of human face image using canonical correlation analysis, H. Huang et al., PR 2010.[[PDF](https://www.sciencedirect.com/science/article/pii/S0031320310000853)]
 
 ### Joint Tasks
 
