@@ -131,7 +131,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   [GCFSR] GCFSR: a Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors, J. He et al., CVPR2022 [[PDF](https://arxiv.org/pdf/2203.07319.pdf)]
 
--   [SFMNet] Spatial-Frequency Mutual Learning for Face Super-Resolution, C. Wang et al., CVPR2023 [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Spatial-Frequency_Mutual_Learning_for_Face_Super-Resolution_CVPR_2023_paper.pdf)]
+-   [SFMNet] Spatial-Frequency Mutual Learning for Face Super-Resolution, C. Wang et al., CVPR2023 [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Spatial-Frequency_Mutual_Learning_for_Face_Super-Resolution_CVPR_2023_paper.pdf)] [Our Work]
 
 
     
@@ -202,13 +202,13 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   Blind Face Restoration via Integrating Face Shape and Generative Priors, F. Zhu et al., CVPR 2022.
 
--   Propagating Facial Prior Knowledge for Multi-Task Learning in Face Super-Resolution, C. Wang et al., TCSVT 2022. [[Code](https://github.com/wcy-cs/KDFSRNet)][Ours]
+-   Propagating Facial Prior Knowledge for Multi-Task Learning in Face Super-Resolution, C. Wang et al., TCSVT 2022. [[Code](https://github.com/wcy-cs/KDFSRNet)] [Our Work]
 
 -   Face Super-Resolution with Progressive Embedding of Multi-scale Face Priors, C. Zhang et al., IJCB 2022. [[PDF](https://arxiv.org/abs/2210.06002)]
 
 -   Rethinking Prior-Guided Face Super-Resolution: A New Paradigm With Facial Component Prior, T. Lu, et al, TNNLS 2022 [[PDF](https://pubmed.ncbi.nlm.nih.gov/36054383/)]
 
--   Super-Resolving Face Image by Facial Parsing Information, C. Wang, et al., TBIOM 2023 [[PDF](https://ieeexplore.ieee.org/abstract/document/10090424)]
+-   Super-Resolving Face Image by Facial Parsing Information, C. Wang, et al., TBIOM 2023 [[PDF](https://ieeexplore.ieee.org/abstract/document/10090424)] [Our Work]
 
 - 
 ### Attribute-constrained FSR Methods
