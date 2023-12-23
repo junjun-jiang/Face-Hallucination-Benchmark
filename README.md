@@ -512,7 +512,7 @@ The last two databases are collected by myself.
 
 ### Largescale databases
 
--   [EDFace-Celeb-1M] [[Web](https://github.com/HDCVLab/EDFace-Celeb-1M)]
+-   [EDFace-Celeb-1M](https://github.com/HDCVLab/EDFace-Celeb-1M)
   
 -   [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
