@@ -133,12 +133,6 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 
 -   [GCFSR] GCFSR: a Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors, J. He et al., CVPR2022 [[PDF](https://arxiv.org/pdf/2203.07319.pdf)]
 
-
--   [EDFace-Celeb-1M] EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset, K. Zhang et al., TPAMI 2022 [[Web](https://github.com/HDCVLab/EDFace-Celeb-1M)] [[PDF](https://arxiv.org/abs/2110.05031)]
-
--   Blind Face Restoration: Benchmark Datasets and a Baseline Model, P. Zhang et al., ArXiv 2022. [[Web](https://github.com/bitzpy/Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model)] [[PDF](https://arxiv.org/abs/2206.03697)]
-
-
 -   Blind Face Restoration: Benchmark Datasets and a Baseline Model, P. Zhang et al., ArXiv 2022. [[Web](https://github.com/bitzpy/Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model)] [[PDF](https://arxiv.org/abs/2206.03697)]
 
 -  [EDFace-Celeb-1M] EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset, K. Zhang et al., TPAMI 2022 [[Web](https://github.com/HDCVLab/EDFace-Celeb-1M)] [[PDF](https://arxiv.org/abs/2110.05031)] 
