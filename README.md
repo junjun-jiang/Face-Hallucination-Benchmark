@@ -47,7 +47,7 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 -     [AuthFace: Towards Authentic Blind Face Restoration with Face-oriented Generative Diffusion Prior](https://arxiv.org/html/2410.09864v1), Liang G, et al. ICCV 2023. [github](https://github.com/EthanLiang99/AuthFace)
 -  [Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond](https://openaccess.thecvf.com/content/ICCV2023/html/Zhao_Towards_Authentic_Face_Restoration_with_Iterative_Diffusion_Models_and_Beyond_ICCV_2023_paper.html), Zhao Y, et al. ICCV 2023.
 -   [DiffBFR: Bootstrapping Diffusion Model Towards Blind Face Restoration](https://arxiv.org/abs/2305.04517), Qiu X, et al. ACM MM 2024
--     BR-BFR: Degradation Representation with Diffusion Models for Blind Face Restoration](https://arxiv.org/abs/2411.10508), Qiu X, et al.
+-     [BR-BFR: Degradation Representation with Diffusion Models for Blind Face Restoration](https://arxiv.org/abs/2411.10508), Qiu X, et al.
 -  [InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention](https://arxiv.org/abs/2412.06753), Zhang H, et al.
 -   [ReF-LDM: A Latent Diffusion Model for Reference-based Face Image Restoration](https://arxiv.org/abs/2412.05043), Hsiao C. W. et al, NIPS 2024.
 
