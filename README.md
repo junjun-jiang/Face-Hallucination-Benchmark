@@ -24,31 +24,43 @@ J. Jiang, C. Wang, X. Liu, and J. Ma, “Deep Learning-based Face Super-resoluti
 ## Deep learning-based Methods
 
 ### Diffusion Based Methods
-
--  [DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_DR2_Diffusion-Based_Robust_Degradation_Remover_for_Blind_Face_Restoration_CVPR_2023_paper.pdf). Wang Z, et al. CVPR 2023. [github](https://github.com/Kaldwin0106/DR2_Drgradation_Remover)
-
--   [PGDiff] PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance, P. Yang et al., NIPS 2023 [[PDF](https://arxiv.org/abs/2309.10810)] [github](https://github.com/Xiaobin-Lu/3Diffusion)
-
--   Implicit Diffusion Models for Continuous Super-Resolution, S. Gao et al., CVPR 2023. [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Implicit_Diffusion_Models_for_Continuous_Super-Resolution_CVPR_2023_paper.pdf)]
-
--   DifFace: Blind Face Restoration with Diffused Error Contraction, Z. Yue et al., TPAMI 2024. [github](https://github.com/zsyOAOA/DifFace)
-
--   Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond, Y. Zhao et al., ICCV 2023. [[PDF](https://openaccess.thecvf.com/content/ICCV2023/html/Zhao_Towards_Authentic_Face_Restoration_with_Iterative_Diffusion_Models_and_Beyond_ICCV_2023_paper.html)]
-
--   Towards Real-World Blind Face Restoration with Generative Diffusion Prior, X. Chen et al. TCSVT 2024. [github](https://github.com/chenxx89/BFRffusion)
--   [WaveFace: Authentic Face Restoration with Efficient Frequency Recovery](https://openaccess.thecvf.com/content/CVPR2024/papers/Miao_WaveFace_Authentic_Face_Restoration_with_Efficient_Frequency_Recovery_CVPR_2024_paper.pdf). Miu Y, et al.CVPR 2024.  [github](https://yoqim.github.io/waveface_page/)
-- [UniFRD: A Unified Method for Facial Image Restoration Based on Diffusion Probabilistic Model](https://ieeexplore.ieee.org/abstract/document/10649652), Jian M, et al. TCSVT 2024.
-- [PFStorer: Personalized Face Restoration and Super-Resolution](https://openaccess.thecvf.com/content/CVPR2024/html/Varanka_PFStorer_Personalized_Face_Restoration_and_Super-Resolution_CVPR_2024_paper.html), Varanka T, et al. WACV 2024.
--  [Learning Degradation-unaware Representation with Prior-based Latent Transformations for Blind Face Restoration](https://openaccess.thecvf.com/content/CVPR2024/html/Xie_Learning_Degradation-unaware_Representation_with_Prior-based_Latent_Transformations_for_Blind_Face_CVPR_2024_paper.html), Xie L, et al CVPR 2024
--   [RestorerID: Towards Tuning-Free Face Restoration with ID Preservation](https://arxiv.org/abs/2411.14125), Yang J, et al. ARXIV 2024
-- [Diffuse and Restore: A Region-Adaptive Diffusion Model for Identity-Preserving Blind Face Restoration](https://openaccess.thecvf.com/content/WACV2024/html/Suin_Diffuse_and_Restore_A_Region-Adaptive_Diffusion_Model_for_Identity-Preserving_Blind_WACV_2024_paper.html), Suin M, et al. WACV 2024.
--  [3D Priors-Guided Diffusion for Blind Face Restoration](https://dl.acm.org/doi/abs/10.1145/3664647.3681611), Lu X, et al. ACM MM 2024. [github](https://github.com/Xiaobin-Lu/3Diffusion)
-- [AuthFace: Towards Authentic Blind Face Restoration with Face-oriented Generative Diffusion Prior](https://arxiv.org/html/2410.09864v1), Liang G, et al. ICCV 2023. [github](https://github.com/EthanLiang99/AuthFace)
--  [Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond](https://openaccess.thecvf.com/content/ICCV2023/html/Zhao_Towards_Authentic_Face_Restoration_with_Iterative_Diffusion_Models_and_Beyond_ICCV_2023_paper.html), Zhao Y, et al. ICCV 2023.
--   [DiffBFR: Bootstrapping Diffusion Model Towards Blind Face Restoration](https://arxiv.org/abs/2305.04517), Qiu X, et al. ACM MM 2024
-- [BR-BFR: Degradation Representation with Diffusion Models for Blind Face Restoration](https://arxiv.org/abs/2411.10508), Qiu X, et al.
--  [InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention](https://arxiv.org/abs/2412.06753), Zhang H, et al.
--   [ReF-LDM: A Latent Diffusion Model for Reference-based Face Image Restoration](https://arxiv.org/abs/2412.05043), Hsiao C. W. et al, NIPS 2024.
+- OSDFace: One-Step Diffusion Model for Face Restoration, CVPR2025, [Web](https://github.com/jkwang28/OSDFace)
+- AuthFace: Towards Authentic Blind Face Restoration with Face-oriented Generative Diffusion Prior, ACM MM 2025. [Web](https://github.com/EthanLiang99/AuthFace)
+- Diffusion Prior Interpolation for Flexibility Real-World Face Super-Resolution, AAAI 2025. [Web](https://github.com/JerryYann/DPI)
+- DynFaceRestore: Balancing Fidelity and Quality in Diffusion-Guided Blind Face Restoration with Dynamic Blur-Level Mapping and Guidance, ICCV 2025.
+- DiffusionReward: Enhancing Blind Face Restoration through Reward Feedback Learning, ARXIV 2025. [Web](https://github.com/01NeuralNinja/DiffusionReward)
+- HonestFace: Towards Honest Face Restoration with One-Step Diffusion Model, ARXIV 2025. [Web](https://github.com/jkwang28/HonestFace)
+- Visual Style Prompt Learning Using Diffusion Models for Blind Face Restoration, PR 2025.[Web](https://github.com/LonglongaaaGo/VSPBFR)
+- TD-BFR: Truncated Diffusion Model for Efficient Blind Face Restoration, ICME 2025.
+- MoFRR: Mixture of Diffusion Models for Face Retouching Restoration, ARXIV 2025.
+- QuantFace: Low-Bit Post-Training Quantization for One-Step Diffusion Face Restoration, ARXIV 2025. [Web](https://github.com/jiatongli2024/QuantFace)
+- LAFR: Efficient Diffusion-based Blind Face Restoration via Latent Codebook Alignment Adapter, ARXIV 2025.
+- Towards Unsupervised Blind Face Restoration using Diffusion Prior, WACV 2025. [Web](https://github.com/SamsungLabs/DT-BFR)
+- InfoBFR: Real-World Blind Face Restoration via Information Bottleneck, ARXIV 2025.
+- DifFace: Blind Face Restoration With Diffused Error Contraction, TPAMI 2024. [Web](https://github.com/zsyOAOA/DifFace)
+- WaveFace: Authentic Face Restoration with Efficient Frequency Recovery. CVPR 2024.  [Web](https://yoqim.github.io/waveface_page/)
+- UniFRD: A Unified Method for Facial Image Restoration Based on Diffusion Probabilistic Model, TCSVT 2024.
+- Learning Degradation-unaware Representation with Prior-based Latent Transformations for Blind Face Restoration, CVPR 2024
+- Towards Real-World Blind Face Restoration with Generative Diffusion Prior, TCSVT 2024. [Web](https://github.com/chenxx89/BFRffusion)
+- 3D Priors-Guided Diffusion for Blind Face Restoration, ACM MM 2024. [github](https://github.com/Xiaobin-Lu/3Diffusion)
+- CLR-Face: Conditional Latent Refinement for Blind Face Restoration Using Score-Based Diffusion Models, IJCAI 2024.
+- Multi-Feature Aggregation in Diffusion Models for Enhanced Face Super-Resolution, SIBGRAPI 2024, [github](https://github.com/marcelowds/fasr)
+- DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration. CVPR 2023. [github](https://github.com/Kaldwin0106/DR2_Drgradation_Remover)
+- PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance. NIPS 2023. [github](https://github.com/pq-yang/PGDiff)
+- Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond, ICCV 2023.
+- DiffBFR: Bootstrapping Diffusion Model Towards Blind Face Restoration, ACM MM 2023
+- DR-BFR: Degradation Representation with Diffusion Models for Blind Face Restoration, 
+- Face Super-Resolution Using Stochastic Differential Equations, SIBGRAPI 2022
+#### Reference-based Diffusion Methods
+1. ReF-LDM: A Latent Diffusion Model for Reference-based Face Image Restoration, NIPS 2024. [github](https://chiweihsiao.github.io/refldm.github.io/)
+2. PFStorer: Personalized Face Restoration and Super-Resolution, CVPR 2024.
+3. RestorerID: Towards Tuning-Free Face Restoration with ID Preservation, ARXIV 2024. [github](https://github.com/YingJiacheng/RestorerID)
+4. Diffuse and Restore: A Region-Adaptive Diffusion Model for Identity-Preserving Blind Face Restoration, Suin M, et al. WACV 2024.
+5. InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention, 
+6. Robust ID-Specific Face Restoration via Alignment Learning,  ARXIV 2025
+7. FaceMe: Robust Blind Face Restoration with Personal Identification, AAAI 2025. [github](https://github.com/modyu-liu/FaceMe)
+8. Reference-Guided Identity Preserving Face Restoration, ARXIV 2025 [github](https://github.com/cdluminate/RefIPFR)
+9. Learning Degradation-unaware Representation with Prior-based Latent Transformations for Blind Face Restoration, Xie L, et al CVPR 2024
 
 
 ### General FSR Methods
